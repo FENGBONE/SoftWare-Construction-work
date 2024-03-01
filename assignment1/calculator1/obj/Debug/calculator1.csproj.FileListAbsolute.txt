@@ -1,0 +1,8 @@
+E:\GitHub\repoistory\-\assignment1\calculator1\bin\Debug\calculator1.exe.config
+E:\GitHub\repoistory\-\assignment1\calculator1\bin\Debug\calculator1.exe
+E:\GitHub\repoistory\-\assignment1\calculator1\bin\Debug\calculator1.pdb
+E:\GitHub\repoistory\-\assignment1\calculator1\obj\Debug\calculator1.csproj.AssemblyReference.cache
+E:\GitHub\repoistory\-\assignment1\calculator1\obj\Debug\calculator1.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\repoistory\-\assignment1\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
+E:\GitHub\repoistory\-\assignment1\calculator1\obj\Debug\calculator1.exe
+E:\GitHub\repoistory\-\assignment1\calculator1\obj\Debug\calculator1.pdb
