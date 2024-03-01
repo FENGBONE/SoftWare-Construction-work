@@ -1,0 +1,31 @@
+﻿<Window x:Class="calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="410" Width="355">
+    <Grid Margin="10,0,10,10" RenderTransformOrigin="0.494,0.707">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="37*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="_1" Content="1" HorizontalAlignment="Left" Height="50" Margin="14,9,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click1" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_2" Content="2" HorizontalAlignment="Left" Height="50" Margin="94,9,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click2" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_3" Content="3" HorizontalAlignment="Left" Height="50" Margin="174,9,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click3" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_4" Content="4" HorizontalAlignment="Left" Height="50" Margin="13,70,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click4" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_5" Content="5" HorizontalAlignment="Left" Height="50" Margin="93,70,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click5" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_6" Content="6" HorizontalAlignment="Left" Height="50" Margin="173,70,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click6" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_7" Content="7" HorizontalAlignment="Left" Height="50" Margin="13,130,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click7" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_8" Content="8" HorizontalAlignment="Left" Height="50" Margin="93,130,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click8" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_9" Content="9" HorizontalAlignment="Left" Height="50" Margin="173,130,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click9" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="_0" Content="0" HorizontalAlignment="Left" Height="50" Margin="13,190,0,0" VerticalAlignment="Top" Width="68" Click="Button_Click0" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="加" Content="+" HorizontalAlignment="Left" Height="50" Margin="261,10,0,0" VerticalAlignment="Top" Width="68" Click="Button_ClickAdd" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="减" Content="-" HorizontalAlignment="Left" Height="50" Margin="261,70,0,0" VerticalAlignment="Top" Width="68" Click="Button_ClickSub" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="乘" Content="*" HorizontalAlignment="Left" Height="50" Margin="261,130,0,0" VerticalAlignment="Top" Width="68" Click="Button_ClickMul" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="除" Content="/" HorizontalAlignment="Left" Height="50" Margin="261,190,0,0" VerticalAlignment="Top" Width="68" Click="Button_ClickDiv" FontSize="36" Grid.Row="1"/>
+        <Button x:Name="确认" Content="确认" HorizontalAlignment="Center" Height="50" Margin="0,190,0,0" VerticalAlignment="Top" Width="149" Click="Button_ClickSure" FontSize="36" Grid.Row="1"/>
+        <Label Margin="0,0,0,6"/>
+    </Grid>
+</Window>

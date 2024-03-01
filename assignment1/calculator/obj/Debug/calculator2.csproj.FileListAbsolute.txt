@@ -1,0 +1,16 @@
+E:\GitHub\repoistory\-\assignment1\calculator\bin\Debug\calculator.exe.config
+E:\GitHub\repoistory\-\assignment1\calculator\bin\Debug\calculator.exe
+E:\GitHub\repoistory\-\assignment1\calculator\bin\Debug\calculator.pdb
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator2.csproj.AssemblyReference.cache
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator2.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\MainWindow.g.cs
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\App.g.cs
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator_MarkupCompile.cache
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator_MarkupCompile.lref
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\MainWindow.baml
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator.g.resources
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator2.csproj.GenerateResource.cache
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator.exe
+E:\GitHub\repoistory\-\assignment1\calculator\obj\Debug\calculator.pdb
