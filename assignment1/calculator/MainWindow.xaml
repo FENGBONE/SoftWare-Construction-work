@@ -27,5 +27,7 @@
         <Button x:Name="除" Content="/" HorizontalAlignment="Left" Height="50" Margin="261,190,0,0" VerticalAlignment="Top" Width="68" Click="Button_ClickDiv" FontSize="36" Grid.Row="1"/>
         <Button x:Name="确认" Content="确认" HorizontalAlignment="Center" Height="50" Margin="0,190,0,0" VerticalAlignment="Top" Width="149" Click="Button_ClickSure" FontSize="36" Grid.Row="1"/>
         <Label Margin="0,0,0,6"/>
+        <Label x:Name="show" Content="Label" HorizontalAlignment="Center" Height="97" Margin="0,10,0,0" VerticalAlignment="Top" Width="315" FontSize="36"/>
+
     </Grid>
 </Window>
