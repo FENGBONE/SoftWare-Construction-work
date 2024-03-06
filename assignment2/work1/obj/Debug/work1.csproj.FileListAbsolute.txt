@@ -1,0 +1,16 @@
+E:\GitHub\repoistory\-\assignment1\work1\bin\Debug\work1.exe.config
+E:\GitHub\repoistory\-\assignment1\work1\bin\Debug\work1.exe
+E:\GitHub\repoistory\-\assignment1\work1\bin\Debug\work1.pdb
+E:\GitHub\repoistory\-\assignment1\work1\obj\Debug\work1.csproj.AssemblyReference.cache
+E:\GitHub\repoistory\-\assignment1\work1\obj\Debug\work1.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\repoistory\-\assignment1\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+E:\GitHub\repoistory\-\assignment1\work1\obj\Debug\work1.exe
+E:\GitHub\repoistory\-\assignment1\work1\obj\Debug\work1.pdb
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\bin\Debug\work1.exe.config
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\bin\Debug\work1.exe
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\bin\Debug\work1.pdb
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.csproj.AssemblyReference.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.exe
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.pdb

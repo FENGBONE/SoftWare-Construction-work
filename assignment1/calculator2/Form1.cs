@@ -14,7 +14,7 @@ namespace calculator2
     {
         int a;
         int b;
-        int num;
+        int num;  //局部变量就近定义
         public Form1()
         {
             InitializeComponent();
@@ -29,7 +29,10 @@ namespace calculator2
            // label1.Text = num.ToString();
         }
 
-        //加法按钮点击事件
+
+        //Button改为radioButton
+
+        //加法按钮点击事件       
         private void button1_Click(object sender, EventArgs e)
         {
             a=int.Parse(textBox1.Text);
@@ -42,7 +45,7 @@ namespace calculator2
         private void button2_Click(object sender, EventArgs e)
         {
             a = int.Parse(textBox1.Text);
-            b = int.Parse(textBox2.Text);
+            b = int.Parse(textBox2.Text);//异常处理
             num = a * b;
            // label1.Text = num.ToString();
         }
@@ -51,7 +54,11 @@ namespace calculator2
         {
             a = int.Parse(textBox1.Text);
             b = int.Parse(textBox2.Text);
-            num = a / b;
+            if (b != 0)
+            {
+                num = a / b;
+            }
+            
             //label1.Text = num.ToString();
         }
 

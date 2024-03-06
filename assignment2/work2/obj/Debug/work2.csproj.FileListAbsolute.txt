@@ -1,0 +1,8 @@
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\bin\Debug\work2.exe.config
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\bin\Debug\work2.exe
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\bin\Debug\work2.pdb
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\obj\Debug\work2.csproj.AssemblyReference.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\obj\Debug\work2.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\obj\Debug\work2.csproj.CoreCompileInputs.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\obj\Debug\work2.exe
+E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work2\obj\Debug\work2.pdb
