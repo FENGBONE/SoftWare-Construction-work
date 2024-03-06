@@ -60,5 +60,10 @@ namespace calculator2
         {
             label1.Text = num.ToString();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

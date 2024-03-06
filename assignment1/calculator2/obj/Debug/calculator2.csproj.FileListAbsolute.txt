@@ -9,3 +9,14 @@ E:\GitHub\repoistory\-\assignment1\calculator2\obj\Debug\calculator2.csproj.Gene
 E:\GitHub\repoistory\-\assignment1\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
 E:\GitHub\repoistory\-\assignment1\calculator2\obj\Debug\calculator2.exe
 E:\GitHub\repoistory\-\assignment1\calculator2\obj\Debug\calculator2.pdb
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\bin\Debug\calculator2.exe.config
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\bin\Debug\calculator2.exe
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\bin\Debug\calculator2.pdb
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.csproj.AssemblyReference.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.Form1.resources
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.csproj.GenerateResource.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.exe
+E:\GitHub\repoistory\SoftWare-Construction work\assignment1\calculator2\obj\Debug\calculator2.pdb
