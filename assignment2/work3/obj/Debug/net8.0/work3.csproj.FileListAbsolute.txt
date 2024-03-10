@@ -1,0 +1,15 @@
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\bin\Debug\net8.0\work3.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\bin\Debug\net8.0\work3.deps.json
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\bin\Debug\net8.0\work3.runtimeconfig.json
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\bin\Debug\net8.0\work3.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\bin\Debug\net8.0\work3.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.AssemblyInfoInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.AssemblyInfo.cs
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.csproj.CoreCompileInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.sourcelink.json
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\refint\work3.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\work3.genruntimeconfig.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work3\obj\Debug\net8.0\ref\work3.dll
