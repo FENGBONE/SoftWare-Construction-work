@@ -18,10 +18,10 @@ namespace work1
             {
                 if(num%i!=0)
                 {
-                    /*
+                    
                     i++;
                     continue;
-                    */
+                    /*
                     double sqrti = Math.Sqrt(i);
                     for (int k = 2; k < sqrti; k++)
                     {
@@ -31,7 +31,7 @@ namespace work1
                             break;
                         }
                     }
-                    continue;
+                    continue;*/
                 }
                 else
                 {

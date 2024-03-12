@@ -14,3 +14,10 @@ E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work
 E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
 E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.exe
 E:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\bin\Debug\work1.exe.config
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\bin\Debug\work1.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\bin\Debug\work1.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.csproj.AssemblyReference.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment2\work1\obj\Debug\work1.pdb
