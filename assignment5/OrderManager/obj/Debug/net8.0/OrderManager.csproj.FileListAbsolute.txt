@@ -1,0 +1,15 @@
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\bin\Debug\net8.0\OrderManager.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\bin\Debug\net8.0\OrderManager.deps.json
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\bin\Debug\net8.0\OrderManager.runtimeconfig.json
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\bin\Debug\net8.0\OrderManager.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\bin\Debug\net8.0\OrderManager.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.AssemblyInfoInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.AssemblyInfo.cs
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.csproj.CoreCompileInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.sourcelink.json
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\refint\OrderManager.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\OrderManager.genruntimeconfig.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment5\OrderManager\obj\Debug\net8.0\ref\OrderManager.dll

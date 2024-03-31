@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16EF316-8DE2-4818-B5CD-DCC471B51C72}|..\\UnitTestProject2\\UnitTestProject2.csproj|d:\\github\\repoistory\\software-construction work\\assignment5\\unittestproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UnitTestProject2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16EF316-8DE2-4818-B5CD-DCC471B51C72}|..\\UnitTestProject2\\UnitTestProject2.csproj|d:\\github\\repoistory\\software-construction work\\assignment5\\unittestproject2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestProject2",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\UnitTestProject2\\UnitTestProject2.csproj",
+              "RelativeDocumentMoniker": "..\\UnitTestProject2\\UnitTestProject2.csproj",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\UnitTestProject2\\UnitTestProject2.csproj",
+              "RelativeToolTip": "..\\UnitTestProject2\\UnitTestProject2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-31T08:32:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject2\\UnitTest1.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:22:56.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:09:28.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
