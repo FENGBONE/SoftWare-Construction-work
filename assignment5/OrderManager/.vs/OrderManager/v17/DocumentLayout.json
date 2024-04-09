@@ -3,11 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|d:\\github\\repoistory\\software-construction work\\assignment5\\ordermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|d:\\github\\repoistory\\software-construction work\\assignment5\\ordermanager\\ordermanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|solutionrelative:ordermanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\github\\repoistory\\software-construction work\\assignment5\\unittestproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|d:\\github\\repoistory\\software-construction work\\assignment5\\ordermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D623E4-19DA-4144-89A5-4DDE958CCD6F}|OrderManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\UnitTestProject2\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\UnitTestProject2\\UnitTest1.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\UnitTestProject2\\UnitTest1.cs",
-              "RelativeToolTip": "..\\UnitTestProject2\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T08:22:56.094Z"
+              "DocumentIndex": 0,
+              "Title": "OrderManager",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\OrderManager.csproj",
+              "RelativeDocumentMoniker": "OrderManager.csproj",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\OrderManager.csproj",
+              "RelativeToolTip": "OrderManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T13:53:36.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment5\\OrderManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T08:09:28.555Z",
               "EditorCaption": ""
