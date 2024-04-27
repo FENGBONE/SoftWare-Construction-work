@@ -1,0 +1,7 @@
+F:\study\大二下\软件构造基础\Assignment6\OrderService\bin\Debug\OrderApp.dll.config
+F:\study\大二下\软件构造基础\Assignment6\OrderService\bin\Debug\OrderApp.dll
+F:\study\大二下\软件构造基础\Assignment6\OrderService\bin\Debug\OrderApp.pdb
+F:\study\大二下\软件构造基础\Assignment6\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+F:\study\大二下\软件构造基础\Assignment6\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+F:\study\大二下\软件构造基础\Assignment6\OrderService\obj\Debug\OrderApp.dll
+F:\study\大二下\软件构造基础\Assignment6\OrderService\obj\Debug\OrderApp.pdb

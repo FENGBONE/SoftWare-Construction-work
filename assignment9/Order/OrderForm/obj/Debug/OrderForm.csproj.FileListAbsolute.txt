@@ -1,0 +1,404 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormParent.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OrderForm.exe.config
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OrderForm.exe
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OrderForm.pdb
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OrderApp.exe
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OrderApp.pdb
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OrderApp.exe.config
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.FormMain.resources
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.FormParent.resources
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.exe
+D:\code\DotNET-Homework\Homework11\OrderForm\obj\Debug\OrderForm.pdb
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\EntityFramework.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Google.Protobuf.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\MySql.Data.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Renci.SshNet.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Ubiety.Dns.Core.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\EntityFramework.xml
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Google.Protobuf.xml
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\MySql.Data.xml
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Renci.SshNet.xml
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\MySqlConnector.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\OptimizedDataReader.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Savage.Data.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\System.Buffers.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code\DotNET-Homework\Homework11\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OrderForm.exe.config
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OrderForm.exe
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OrderForm.pdb
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\MySqlConnector.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OptimizedDataReader.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OrderApp.exe
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Renci.SshNet.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Savage.Data.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\System.Buffers.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Ubiety.Dns.Core.dll
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OrderApp.pdb
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\OrderApp.exe.config
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Google.Protobuf.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\Renci.SshNet.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.FormMain.resources
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.FormParent.resources
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.exe
+\\vmware-host\Shared Folders\桌面\Homework11\OrderForm\obj\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OrderForm.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Google.Protobuf.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\MySql.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\MySqlConnector.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OptimizedDataReader.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OrderApp.exe
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Renci.SshNet.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Savage.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\System.Buffers.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Ubiety.Dns.Core.dll
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OrderApp.pdb
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\OrderApp.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Google.Protobuf.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\MySql.Data.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\Renci.SshNet.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.FormMain.resources
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.FormParent.resources
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2022年春季\homeworks\Homework11\OrderForm\obj\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Google.Protobuf.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\MySql.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\MySqlConnector.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OptimizedDataReader.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.exe
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Renci.SshNet.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Savage.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Buffers.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Google.Protobuf.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\MySql.Data.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Renci.SshNet.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.SuggestedBindingRedirects.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormParent.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\K4os.Compression.LZ4.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\K4os.Hash.xxHash.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.IO.Pipelines.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Memory.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Numerics.Vectors.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\BouncyCastle.Crypto.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\Google.Protobuf.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\K4os.Compression.LZ4.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\K4os.Hash.xxHash.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Buffers.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.IO.Pipelines.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Memory.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Numerics.Vectors.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OrderForm.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Google.Protobuf.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\K4os.Hash.xxHash.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\MySql.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\MySqlConnector.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OptimizedDataReader.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OrderApp.exe
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Renci.SshNet.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Savage.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Buffers.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.IO.Pipelines.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Memory.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Numerics.Vectors.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OrderApp.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\OrderApp.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\BouncyCastle.Crypto.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Google.Protobuf.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Google.Protobuf.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\K4os.Hash.xxHash.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\MySql.Data.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\Renci.SshNet.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Buffers.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.IO.Pipelines.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Memory.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Numerics.Vectors.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.SuggestedBindingRedirects.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.FormParent.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Assignment8\OrderForm\obj\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OrderForm.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OrderForm.pdb
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Google.Protobuf.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\K4os.Hash.xxHash.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\MySql.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\MySqlConnector.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OptimizedDataReader.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OrderApp.exe
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Renci.SshNet.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Savage.Data.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Buffers.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.IO.Pipelines.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Memory.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Numerics.Vectors.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OrderApp.pdb
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\OrderApp.exe.config
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\BouncyCastle.Crypto.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Google.Protobuf.pdb
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Google.Protobuf.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\K4os.Hash.xxHash.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\MySql.Data.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\Renci.SshNet.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Buffers.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.IO.Pipelines.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Memory.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Numerics.Vectors.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.SuggestedBindingRedirects.cache
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.FormParent.resources
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.exe
+Z:\SynologyDrive\教学\软件构造基础\2024年春季\assignments\Assignment8\OrderForm\obj\Debug\OrderForm.pdb
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OrderForm.exe.config
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OrderForm.exe
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OrderForm.pdb
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\EntityFramework.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Google.Protobuf.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\K4os.Hash.xxHash.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\MySql.Data.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\MySqlConnector.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OptimizedDataReader.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OrderApp.exe
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Renci.SshNet.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Savage.Data.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Buffers.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.IO.Pipelines.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Memory.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Numerics.Vectors.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OrderApp.pdb
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\OrderApp.exe.config
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\BouncyCastle.Crypto.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\EntityFramework.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Google.Protobuf.pdb
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Google.Protobuf.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\K4os.Hash.xxHash.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\MySql.Data.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\Renci.SshNet.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Buffers.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.IO.Pipelines.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Memory.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Numerics.Vectors.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.FormParent.resources
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.csproj.Up2Date
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.exe
+F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderForm\obj\Debug\OrderForm.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OrderForm.exe.config
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OrderForm.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OrderForm.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\EntityFramework.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Google.Protobuf.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\MySql.Data.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\MySqlConnector.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OptimizedDataReader.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OrderApp.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Renci.SshNet.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Savage.Data.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Savage.Data.MySqlClient.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Buffers.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.IO.Pipelines.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Memory.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OrderApp.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\OrderApp.exe.config
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\BouncyCastle.Crypto.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\EntityFramework.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Google.Protobuf.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Google.Protobuf.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\K4os.Compression.LZ4.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\K4os.Hash.xxHash.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\MySql.Data.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\Renci.SshNet.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Buffers.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.IO.Pipelines.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Memory.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.FormMain.resources
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.FormParent.resources
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.csproj.Up2Date
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderForm\obj\Debug\OrderForm.pdb

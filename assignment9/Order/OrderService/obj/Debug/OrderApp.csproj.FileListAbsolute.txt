@@ -1,0 +1,6 @@
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderApp.exe.config
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderApp.pdb

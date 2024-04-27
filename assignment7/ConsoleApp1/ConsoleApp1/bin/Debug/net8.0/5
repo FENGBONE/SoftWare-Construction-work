@@ -1,0 +1,392 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin-when-cross-origin" />
+    <meta name="description" content="给我们带来最直接的感受是：看似前景很美好，实质上却很卷。最应该反思和总结的是：尊重价值规律，在价值规律的原则下做事是否具备合理性，这是走的更远的基本保障，但是又很难做到。" />
+    <meta property="og:description" content="给我们带来最直接的感受是：看似前景很美好，实质上却很卷。最应该反思和总结的是：尊重价值规律，在价值规律的原则下做事是否具备合理性，这是走的更远的基本保障，但是又很难做到。" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>《一个程序猿的生命周期》-《发展篇》- 46.2000万预算的项目，为什么跟踪15个月失败了 - 一个程序猿的生命周期 - 博客园</title>
+    <link rel="canonical" href="https://www.cnblogs.com/blog470130547/p/18160138" />
+    <link rel="shortcut icon" id="favicon" href="//assets.cnblogs.com/favicon.svg?v=2" type="image/svg+xml" />
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=22aBlxLxM3CErNzn75a0-VjXxP1bUWs59o5gqlkic6c" />
+    
+
+    <link id="MainCss" rel="stylesheet" href="/skins/coffee/bundle-coffee.min.css?v=DxSjE07RtNIdUwZ16mvs0E5cZLpNjos50mfNDKdc1do" />
+        <link id="highlighter-theme-cnblogs" type="text/css" rel="stylesheet" href="/css/hljs/cnblogs.css?v=5J1NDtbnnIr2Rc2SdhEMlMxD4l9Eydj88B31E7_NhS4" />
+    
+    
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/coffee/bundle-coffee-mobile.min.css?v=plw-EX1H6v1DxHPWtwwPTf1X-WcaWxqXlt1BuqvEoXM" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/blog470130547/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/blog470130547/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/blog470130547/wlwmanifest.xml" />
+    <script>
+        var currentBlogId = 204487;
+        var currentBlogApp = 'blog470130547';
+        var isLogined = false;
+        var isBlogOwner = false;
+        var skinName = 'coffee';
+        var visitorUserId = '';
+        var hasCustomScript = false;
+        window.cb_enable_mathjax = false;
+        window.mathEngine = 0;
+        window.codeHighlightEngine = 1;
+        window.enableCodeLineNumber = false;
+        window.codeHighlightTheme = 'cnblogs';
+        window.darkModeCodeHighlightTheme = 'vs2015';
+        window.isDarkCodeHighlightTheme = false;
+        window.isDarkModeCodeHighlightThemeDark = true;
+        window.isDisableCodeHighlighter = false;
+        window.enableCodeThemeTypeFollowSystem = false;
+        window.enableMacStyleCodeBlock = false;
+    </script>
+        <script>
+            window.currentPostId = 18160138;
+            window.currentPostDateAdded = '2024-04-26 15:07';
+        </script>
+    <script src="https://assets.cnblogs.com/scripts/jquery-3.3.1.min.js"></script>
+    <script src="https://cdn-www.cnblogs.com/js/blog-common.min.js?v=_rgYy_Ast9OXsi6wUe-bs6yfIeNUXXp3RoYNNDYFsc0"></script>
+    
+</head>
+<body class="skin-coffee has-navbar">
+    <a name="top"></a>
+        <div id="bannerbar" class="bannerbar-mobile bannerbar-text-mobile formobile">
+                <a href="https://www.cnblogs.com/cmt/p/18094172" onclick="countCreativeClicks('M2-博客园-鼠标垫')" rel="nofollow">
+                    <img src="https://img2024.cnblogs.com/blog/35695/202401/35695-20240115080910898-1157541931.jpg" alt="" onload="countCreativeImpressionsOnMobile('M2-博客园-鼠标垫')" />
+                    <span id="m2_impression" style="display:none"></span>
+                </a>
+        </div>
+    <div id="top_nav" class="navbar forpc">
+        <nav id="nav_main" class="navbar-main">
+            <ul id="nav_left" class="navbar-list navbar-left">
+                <li class="navbar-branding">
+                    <a href="https://www.cnblogs.com/" title="开发者的网上家园" role="banner">
+                        <img src="//assets.cnblogs.com/logo.svg" alt="博客园Logo" />
+                    </a>
+                </li>
+                <li><a href="https://cnblogs.vip/">会员</a></li>
+                <li><a href="https://cnblogs.vip/store">周边</a></li>
+                <li>
+                    <a href="https://news.cnblogs.com/" onclick="countClicks('nav', 'skin-navbar-news')">新闻</a>
+                </li>
+                <li>
+                    <a href="https://q.cnblogs.com/" onclick="countClicks('nav', 'skin-navbar-q')">博问</a>
+                </li>
+                <li>
+                    <a href="https://ai.hanghang.com/page/4649915" target="_blank">AI培训</a>
+                </li>
+                <li><a href="https://market.cnblogs.com" target="_blank">云市场</a></li>
+            </ul>
+            <ul id="nav_right" class="navbar-list navbar-right">
+                <li>
+                    <form id="zzk_search" class="navbar-search dropdown" action="https://zzk.cnblogs.com/s" method="get" role="search">
+                        <input name="w" id="zzk_search_input" placeholder="代码改变世界" type="search" tabindex="3" autocomplete="off" />
+                        <button id="zzk_search_button" onclick="window.navbarSearchManager.triggerActiveOption()">
+                            <img id="search_icon" class="focus-hidden" src="//assets.cnblogs.com/icons/search.svg" alt="搜索" />
+                            <img class="hidden focus-visible" src="//assets.cnblogs.com/icons/enter.svg" alt="搜索" />
+                        </button>
+                        <ul id="navbar_search_options" class="dropdown-menu quick-search-menu">
+                            <li tabindex="0" class="active" onclick="zzkSearch(event, document.getElementById('zzk_search_input').value)">
+                                <div class="keyword-wrapper">
+                                    <img src="//assets.cnblogs.com/icons/search.svg" alt="搜索" />
+                                    <div class="keyword"></div>
+                                </div>
+                                <span class="search-area">所有博客</span>
+                            </li>
+                                    <li tabindex="1" onclick="zzkBlogSearch(event, 'blog470130547', document.getElementById('zzk_search_input').value)">
+                                        <div class="keyword-wrapper">
+                                            <img src="//assets.cnblogs.com/icons/search.svg" alt="搜索" />
+                                            <div class="keyword"></div>
+                                        </div>
+                                        <span class="search-area">当前博客</span>
+                                    </li>
+                        </ul>
+                    </form>
+                </li>
+                <li id="navbar_login_status" class="navbar-list">
+                    <a class="navbar-user-info navbar-blog" href="https://i.cnblogs.com/EditPosts.aspx?opt=1" alt="写随笔" title="写随笔">
+                        <img id="new_post_icon" class="navbar-icon" src="//assets.cnblogs.com/icons/newpost.svg" alt="写随笔" />
+                    </a>
+                    <a id="navblog-myblog-icon" class="navbar-user-info navbar-blog" href="https://passport.cnblogs.com/GetBlogApplyStatus.aspx" alt="我的博客" title="我的博客">
+                        <img id="myblog_icon" class="navbar-icon" src="//assets.cnblogs.com/icons/myblog.svg" alt="我的博客" />
+                    </a>
+                    <a class="navbar-user-info navbar-message navbar-icon-wrapper" href="https://msg.cnblogs.com/" alt="短消息" title="短消息">
+                        <img id="msg_icon" class="navbar-icon" src="//assets.cnblogs.com/icons/message.svg" alt="短消息" />
+                        <span id="msg_count" style="display: none"></span>
+                    </a>
+                    <a id="navbar_lite_mode_indicator" data-current-page="blog" style="display: none" href="javascript:void(0)" alt="简洁模式" title="简洁模式启用，您在访问他人博客时会使用简洁款皮肤展示">
+                        <img class="navbar-icon" src="//assets.cnblogs.com/icons/lite-mode-on.svg" alt="简洁模式" />
+                    </a>
+                    <div id="user_info" class="navbar-user-info dropdown">
+                        <a class="dropdown-button" href="https://home.cnblogs.com/">
+                            <img id="user_icon" class="navbar-avatar" src="//assets.cnblogs.com/icons/avatar-default.svg" alt="用户头像" />
+                        </a>
+                        <div class="dropdown-menu">
+                            <a id="navblog-myblog-text" href="https://passport.cnblogs.com/GetBlogApplyStatus.aspx">我的博客</a>
+                            <a href="https://home.cnblogs.com/">我的园子</a>
+                            <a href="https://account.cnblogs.com/settings/account">账号设置</a>
+                            <a href="javascript:void(0)" id="navbar_lite_mode_toggle" title="简洁模式会使用简洁款皮肤显示所有博客">
+    简洁模式 <img id="navbar_lite_mode_on" src="/images/lite-mode-check.svg" class="hide" /><span id="navbar_lite_mode_spinner" class="hide">...</span>
+</a>
+                            <a href="javascript:void(0)" onclick="account.logout();">退出登录</a>
+                        </div>
+                    </div>
+                    <a class="navbar-anonymous" href="https://account.cnblogs.com/signup">注册</a>
+                    <a class="navbar-anonymous" href="javascript:void(0);" onclick="account.login()">登录</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    
+
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+	<a href="https://www.cnblogs.com/blog470130547/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>			
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/blog470130547">一个程序猿的生命周期，QQ群：141588103</a>
+</h1>
+<h2></h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		<div id="navigator">
+			
+<ul id="navList">
+	<li><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+</li>
+	<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/blog470130547/">
+首页</a>
+</li>
+	<li>
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+</li>
+	<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F">
+联系</a></li>
+	<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+	<li>
+<a id="blog_nav_rss" class="menu" href="javascript:void(0)" data-rss="https://www.cnblogs.com/blog470130547/rss/">
+订阅</a>
+	
+<a id="blog_nav_rss_image" href="https://www.cnblogs.com/blog470130547/rss/">
+    <img src="/skins/coffee/images/xml.gif" alt="订阅" />
+</a></li>
+</ul>
+
+
+
+			<div class="blogStats">
+				
+				<div id="blog_stats_place_holder"><script>loadBlogStats();</script></div>
+				
+			</div><!--end: blogStats -->
+		</div><!--end: navigator 博客导航栏 -->
+		<div id="post_detail">
+<!--done-->
+<div id="topics">
+	<div class="post">
+		<h1 class = "postTitle">
+			<a id="cb_post_title_url" class="postTitle2 vertical-middle" href="https://www.cnblogs.com/blog470130547/p/18160138" title="发布于 2024-04-26 15:07">
+    <span role="heading" aria-level="2">《一个程序猿的生命周期》-《发展篇》- 46.2000万预算的项目，为什么跟踪15个月失败了</span>
+    
+
+</a>
+
+		</h1>
+		<div class="clear"></div>
+		<div class="postBody">
+			    <div id="cnblogs_post_description" style="display: none">
+        
+        给我们带来最直接的感受是：看似前景很美好，实质上却很卷。最应该反思和总结的是：尊重价值规律，在价值规律的原则下做事是否具备合理性，这是走的更远的基本保障，但是又很难做到。
+    </div>
+<div id="cnblogs_post_body" class="blogpost-body blogpost-body-html">
+<span style="font-size: 16px">&nbsp; &nbsp; &nbsp;中国社会正在一个转型期，随着人口基数的下降，向智能化社会发展是必然的趋势。《“十四五”智能制造发展规划》和最近发布的《推动工业领域设备更新实施方案》，政府针对一些项目有补贴政策，确实给工业制造领域带来生机。但是，世界同时进入了周期性的低迷期，世界更趋近于保守。给我们带来最直接的感受是：<strong>看似前景很美好，实质上却很卷</strong>。</span>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;2013年1月18日正式与X项目进行第一次技术交流，开启了马拉松式跟踪项目的旅程。这是国家工信部重点项目，按智能制造相关标准全新建设的无人化产线，总投资是70多亿，第一期的生产管理的软件信息化系统预算是2000多万。不管项目金额多少，总之这个项目在行业内有很强的示范作用，我们公司领导层也比较重视。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;实际上，我们对这个项目涉及的行业比较陌生，特别是工艺过程涉及到高温冶炼和化学反应。所以，第一次技术交流后就积极的进行了现场调研，生产过程的工序需求、痛点及工艺、设备、能源、安全、环保、人员等方面，反复的和生产管理人员、车间主任、操作人员进行对接。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;我不太清楚类似项目的团队规模应该有多少具体干活的人？但是前期、中期具体执行跟踪该项目的人员只有1个商务人员和1个技术方案人员。期间又跟踪了一个行业内的其他项目，才招聘了2个新人。后期，该项目在技术方案攻关的时候，才和1名行业的专家进行过几次交流，相当于工艺方案资讯。由于甲方领导的推荐，针对生产管理方面的系统和另外一家公司进行合作。2000万级的项目，具体干活的人员就是这样的人员配置。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;2023年总共出差了138天，是近几年来出差最多的一年。2024年4月17日正式投标，历时15个月，是漫长而煎熬的过程，有很多具体而细化的工作、充当半个商务的工作、沟通和协作的工作等。一共有6家公司参与投标，1家公司被废标，最高报价是1500多万，最低报价是1100多万，我们报价将过1300万，遗憾的是最低价中标。尽管我们写了800多页的投标书，但是没有中标。不过，从跟踪这个项目的过程，学习到了很多东西，也有很多值得总结的东西。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;<strong>1.能力边界</strong></span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp; &nbsp; 不管这个项目是否是最低价中标，以项目本身的规模都不是现在团队能够承载的，更何况是一个全新的、陌生的工业领域。针对工艺、设备、能源、人员、成本、质量、物料等都有很多细致的调研工作，要进行反复的调研、反复的交流推动项目进展，最终写投标书也是需要总体把控、多人配合的。尽管项目调研后期也有一位领域专家参与了，但是以现有的团队规模，还是比较吃力。公司总想以最小的成本获得最大的价值，一两次可能行的通，但是不可能总是违背价值规律。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;<strong>2.思维转变</strong></span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp; &nbsp; 能力边界是一定的情况下，突破能力边界就需要思维转变，思维转变又是基于对该项目的战略定位。首先要搞清楚自己的需求是什么，要国家示范工程案例？要拓展公司业务领域？要经营业绩？要经营利润？但是不管真实需求有多少，最终思考的还是利润，不仅要赚钱，还要赚的更多些，还要能中标，往往在这种复杂的纠结中失去机会。为什么感觉到很卷，是因为中国人在突破“壁垒”后能够接近成本制定市场价格。所以在现在的市场竞争中，不能够主动降低自己的成本，也不要想去降低其他人的成本。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp;<span class="Apple-converted-space">&nbsp;<strong>&nbsp;3.信息传递</strong></span></span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp; &nbsp; 都大数据时代了，往往管理方式没有跟上大数据时代的思维模式。大数据治理理念中有一个“主数据”的概念，而在项目推进和管理过程中却没有明确的主要负责人员。这样造成的一个现象就是都认为自己是“正确”的，信息集成在一起后却不一定正确。为了显示自己在干活，相互之间以传递着信息，而这种信息传递的转换价值率太低了，类似发个心跳包，也仅仅是证明自己还活着。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;<strong>4.过程管控</strong></span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp; 干活人员之间，领导与干活人员之间，领导与领导之间，好象大家都在为项目负责，其实是谁都没有负责任。领导层与干活人员之间明显有割裂感，上下同欲而胜，在这个项目的过程中明显领导层与干活人员之间不在一个频道上。没有关键节点，没有会议讨论，没有人关注和过问具体执行层面有没有困难，没有人愿意解决困难，没有分析具体形式而决策随意性比较大。领导也说干活工作不细，但是整体做事的合理性不到位，作为执行人员能够把握大局嘛！主观指导是的正确与否，影响到优势劣势和主动被动的变化。特别强调的是“主观指导正确与否”，因为我们没有“主观”，所以也不存在“正确与否”。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;<strong>5.项目报价</strong></span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp; 我评估这个项目的中标概率比较大的价格应该是1200万到1500万之间，我们压线1300万投标，谁知道业界最有名的企业，以成本高著称，居然报了1100万出头，这是出乎意料的。但是我们也有失误的地方，第一是我们并没有把这个项目当做一个战略性的项目来看待；第二是我们考虑了大概率事件，并没有考虑到偶发情况，二八原则，我们只考虑了“80%”的事情，“20%”的情况都被大家忽略了。以1200万以基线的情况下，应该再向下浮动报价，而不是向上浮动，首先这是一个战略方向性的错误，先不说是不是最低价。</span></div>
+<div><span style="font-size: 16px">&nbsp; &nbsp; &nbsp;是否中标也再具有任何意义，最应该反思和总结的是：<strong>尊重价值规律，在价值规律的原则下做事是否具备合理性，这是走的更远的基本保障，但是又很难做到</strong>。</span></div>
+<div><hr>
+<p><strong>一个程序猿的生命周期 微信平台</strong></p>
+<p>&nbsp;<strong>口&nbsp;&nbsp; 号：职业交流，职业规划；面对现实，用心去交流、感悟。</strong></p>
+<p>&nbsp;<strong>公众号：iterlifetime</strong></p>
+<p><strong><strong>ITer职业交流奋斗 群：141588103&nbsp;</strong>&nbsp;&nbsp;<br></strong></p>
+<p><strong>公众号</strong><strong>二维码：</strong></p>
+<p><img src="https://img2020.cnblogs.com/blog/691334/202105/691334-20210510223435712-1931494075.jpg" width="100"></p>
+
+</div>
+</div>
+<div class="clear"></div>
+<div id="blog_post_info_block" role="contentinfo">
+    <div id="blog_post_info"></div>
+    <div class="clear"></div>
+    <div id="post_next_prev"></div>
+</div>
+		</div>
+		<div class="postDesc">posted @ 
+<span id="post-date" data-last-update-days="0.9216172528784722" data-date-created="BlogServer.Application.Dto.BlogPost.BlogPostDto" data-date-updated="2024-04-26 15:26">2024-04-26 15:07</span>&nbsp;
+<a href="https://www.cnblogs.com/blog470130547">一个程序猿的生命周期</a>&nbsp;
+阅读(<span id="post_view_count">354</span>)&nbsp;
+评论(<span id="post_comment_count">2</span>)&nbsp;
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=18160138" rel="nofollow">编辑</a>&nbsp;
+<a href="javascript:void(0)" onclick="AddToWz(18160138);return false;">收藏</a>&nbsp;
+<a href="javascript:void(0)" onclick="reportManager.report({ currentUserId: '', targetType: 'blogPost', targetId: '18160138', targetLink: 'https://www.cnblogs.com/blog470130547/p/18160138', title: '《一个程序猿的生命周期》-《发展篇》- 46.2000万预算的项目，为什么跟踪15个月失败了' })">举报</a>
+</div>
+	</div>
+	
+	
+</div><!--end: topics 文章、评论容器-->
+<script>
+    var cb_entryId = 18160138, cb_entryCreatedDate = '2024-04-26 15:07', cb_postType = 1, cb_postTitle = '《一个程序猿的生命周期》-《发展篇》- 46.2000万预算的项目，为什么跟踪15个月失败了';
+    var allowComments = true, cb_blogId = 204487, cb_blogApp = 'blog470130547', cb_blogUserGuid = 'dc9023f0-4169-e411-b908-9dcfd8948a71';
+    mermaidRender.render()
+    markdown_highlight()
+    zoomManager.apply("#cnblogs_post_body img:not(.code_img_closed):not(.code_img_opened)");    
+</script>
+<a id="!comments"></a>
+<div id="blog-comments-placeholder"></div>
+<div id="comment_form" class="commentform">
+    <a name="commentform"></a>
+    <div id="divCommentShow"></div>
+    <div id="comment_nav">
+            <a class="comment-nav-left forpc" href="https://cnblogs.vip/" target="_blank">会员力量，点亮园子希望</a>
+        <div class="comment-nav-right">
+            <span id="span_refresh_tips"></span><a href="#" onclick="return RefreshPage();">刷新页面</a><a href="#top">返回顶部</a>
+        </div>
+    </div>
+    <div id="comment_form_container"></div>
+    <div class="ad_text_commentbox" id="ad_text_under_commentbox"></div>
+        <div id="cnblogs_ch"></div>
+    <div id="opt_under_post"></div>
+        <div id="cnblogs_c1" class="under-post-card">
+            <a href="https://cnblogs.vip/buy" rel="nofollow" target="_blank" onclick="countCreativeClicks('C1-博客园-会员')">
+                <img src="https://img2024.cnblogs.com/blog/35695/202403/35695-20240328092537879-1189167464.jpg" onload="countCreativeImpressions('C1-博客园-会员')" alt="" />
+                <span id="c1_impression" style="display:none"></span>
+            </a>
+        </div>
+    <div id="under_post_card1"></div>
+        <div id="cnblogs_c2" class="under-post-card">
+            <a href="https://market.cnblogs.com/" rel="nofollow" target="_blank" onclick="countCreativeClicks('C2-阿里云-云市场')">
+                <img src="https://img2024.cnblogs.com/blog/35695/202403/35695-20240309100232478-706935978.jpg" alt="" onload="countCreativeImpressions('C2-阿里云-云市场')" />
+            </a>
+        </div>
+    <div id="under_post_card2"></div>
+    <div id="HistoryToday" class="under-post-card"></div>
+    <script type="text/javascript">
+        var commentManager = new blogCommentManager();
+        commentManager.renderComments(0);
+        fixPostBody();
+        window.footnoteTipManager.generateFootnoteTips();
+
+            window.tocManager.displayDisableTocTips = false;
+            window.tocManager.generateToc();
+            
+                setTimeout(function() { countViews(cb_blogId, cb_entryId); }, 50);
+            
+            deliverT2();
+            deliverC1C2();
+            loadNewsAndKb();
+            
+                LoadPostCategoriesTags(cb_blogId, cb_entryId);
+            
+            LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp, cb_blogUserGuid);
+            GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate, cb_postType);
+            loadOptUnderPost();
+            GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);
+                </script>
+</div>
+
+</div>
+
+
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			<div id="sidebar_news" class="newsItem">
+    <!--done-->
+<div class="newsItem">
+<h3 class="catListTitle">公告</h3>
+	<div id="blog-news">    
+    <div id="sidebar_news_content">
+    </div>
+</div>
+<script>loadBlogNews();</script>
+</div>
+
+ 
+</div>
+<div id="sidebar_c3"></div>
+			<div id="calendar"><div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script></div>
+			
+			<DIV id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</DIV>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2024 一个程序猿的生命周期
+<br /><span id="poweredby">Powered by .NET 8.0 on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+
+    
+
+    <input type="hidden" id="antiforgery_token" value="CfDJ8C838EyK0EpKpQQcC9VwxBky1ksAjmknN2XrfScMo-scX-I0DULYrBCUIUNJjna4ZalEsWU8nDbKTdJIEyRMukgdqVBdosyduyYC66N6uc9t7YPanWIp4kxQs4DYCkuHF_xN2DpZQoWmei0g1kbddvQ" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M95P3TTWJZ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-M95P3TTWJZ');
+</script>
+<script defer src="https://hm.baidu.com/hm.js?866c9be12d4a814454792b1fd0fed295"></script>
+</body>
+</html>

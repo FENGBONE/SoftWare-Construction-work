@@ -1,0 +1,17 @@
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\bin\Debug\OrderForm.exe.config
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\bin\Debug\OrderForm.exe
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\bin\Debug\OrderForm.pdb
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\bin\Debug\OrderApp.dll
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\bin\Debug\OrderApp.pdb
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\bin\Debug\OrderApp.dll.config
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.FormMain.resources
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.FormParent.resources
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.csproj.Up2Date
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.exe
+F:\study\大二下\软件构造基础\Assignment6\OrderForm\obj\Debug\OrderForm.pdb

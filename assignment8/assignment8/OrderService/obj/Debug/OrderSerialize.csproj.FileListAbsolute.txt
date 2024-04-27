@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderSerialize.exe.config
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderSerialize.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderSerialize.pdb
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderSerialize.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderSerialize.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderSerialize.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderSerialize.pdb

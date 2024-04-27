@@ -1,0 +1,6 @@
+@TodaApi_HostAddress = http://localhost:5015
+
+GET {{TodaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,1160 @@
+﻿
+<!DOCTYPE html>
+<html lang="en-US" data-theme="light">
+<head>
+    <title>Microsoft Developer</title>
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark light">
+    <meta name="awa-env" content="Production" />
+    <meta name="description" content="Any platform. Any language. Our tools. Develop solutions, on your terms, using Microsoft products and services." />
+    
+    <link rel="canonical" href="https://developer.microsoft.com/en-us/" />
+    <meta name="awa-pageType" content="Resources" />
+    <meta name="awa-product" content="Multiple" />
+    <meta name="awa-prdct" content="Multiple" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content=@msdev />
+    <meta property="og:url" content="https://developer.microsoft.com/en-us/" />
+    <meta property="og:title" content="Microsoft Developer" />
+    <meta property="og:description" content="Any platform. Any language. Our tools. Develop solutions, on your terms, using Microsoft products and services." />
+    <meta property="og:image" content="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" />
+    <meta property="og:type" content="website" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="stylesheet" href="/_devcom/static/css/site.css?v=bpLhxgOibKtj4Pojwd4jPufyuSo" />
+    
+    <link href="/_devcom/hero-banner/microsoft-ai/styles.css" rel="stylesheet" />
+
+
+        <link href="/_devcom/hero-banner/build-2024/styles.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/west-european/shell/_scrf/css/themes=default.device=uplevel_web_pc_ie/29-591900/68-c3a397/f4-0855a6/a8-3dc4a6/f1-3221a1/dc-d4cb46/1f-806835/7a-c9e644?ver=2.0&amp;_cf=20210618" type="text/css" media="all" /> <!-- UHF CSS -->
+
+    <!-- 1DS script -->
+    
+    <script>
+        const pageName = "Microsoft Developer | Home Page";
+    </script>
+
+    <script type="text/javascript" src="https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js"></script>
+    <script type="text/javascript" src="/_devcom/static/js/1ds-analytics.js?v=NToOGJ2b0ltmZMYLezk6sDFTqvM"></script>
+    <!-- /1DS script -->
+</head>
+<body b-snxqalre11 onload="setTheme()">
+    <!-- UHF Header -->
+        <div id="headerArea" class="uhf"  data-m='{"cN":"headerArea","cT":"Area_coreuiArea","id":"a1Body","sN":1,"aN":"Body"}'>
+                <div id="headerRegion"      data-region-key="headerregion" data-m='{"cN":"headerRegion","cT":"Region_coreui-region","id":"r1a1","sN":1,"aN":"a1"}' >
+
+    <div  id="headerUniversalHeader" data-m='{"cN":"headerUniversalHeader","cT":"Module_coreui-universalheader","id":"m1r1a1","sN":1,"aN":"r1a1"}'  data-module-id="Category|headerRegion|coreui-region|headerUniversalHeader|coreui-universalheader">
+        
+
+
+                        <div data-m='{"cN":"cookiebanner_cont","cT":"Container","id":"c1m1r1a1","sN":1,"aN":"m1r1a1"}'>
+
+<div id="uhfCookieAlert" data-locale="en-us">
+    <div id="msccBannerV2"></div>
+</div>
+
+                            
+                        </div>
+
+
+
+
+        <a id="uhfSkipToMain" class="m-skip-to-main" href="javascript:void(0)" data-href="#mainContent" tabindex="0" data-m='{"cN":"Skip to content_nonnav","id":"nn2m1r1a1","sN":2,"aN":"m1r1a1"}'>Skip to main content</a>
+
+
+<header class="c-uhfh context-uhf no-js c-sgl-stck c-category-header " itemscope="itemscope" data-header-footprint="/MSDev-Community/MSDev-DEVCOM-Community-Header, fromService: True"   data-magict="true"   itemtype="http://schema.org/Organization">
+    <div class="theme-light js-global-head f-closed  global-head-cont" data-m='{"cN":"Universal Header_cont","cT":"Container","id":"c3m1r1a1","sN":3,"aN":"m1r1a1"}'>
+        <div class="c-uhfh-gcontainer-st">
+            <button type="button" class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="All Microsoft expand to see list of Microsoft products and services" initialState-label="All Microsoft expand to see list of Microsoft products and services" toggleState-label="Close All Microsoft list" aria-expanded="false" data-m='{"cN":"Mobile menu button_nonnav","id":"nn1c3m1r1a1","sN":1,"aN":"c3m1r1a1"}'></button>
+            <button type="button" class="c-action-trigger c-glyph glyph-arrow-htmllegacy c-close-search" aria-label="Close search" aria-expanded="false" data-m='{"cN":"Close Search_nonnav","id":"nn2c3m1r1a1","sN":2,"aN":"c3m1r1a1"}'></button>
+                    <a id="uhfLogo" class="c-logo c-sgl-stk-uhfLogo" itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" data-m='{"cN":"GlobalNav_Logo_cont","cT":"Container","id":"c3c3m1r1a1","sN":3,"aN":"c3m1r1a1"}'>
+                        <img alt="" itemprop="logo" class="c-image" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" role="presentation" aria-hidden="true" />
+                        <span itemprop="name" role="presentation" aria-hidden="true">Microsoft</span>
+                    </a>
+            <div class="f-mobile-title">
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-left" aria-label="See more menu options" data-m='{"cN":"Mobile back button_nonnav","id":"nn4c3m1r1a1","sN":4,"aN":"c3m1r1a1"}'></button>
+                <span data-global-title="Microsoft home" class="js-mobile-title">Developer</span>
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-right" aria-label="See more menu options" data-m='{"cN":"Mobile forward button_nonnav","id":"nn5c3m1r1a1","sN":5,"aN":"c3m1r1a1"}'></button>
+            </div>
+                    <div class="c-show-pipe x-hidden-vp-mobile-st">
+                        <a id="uhfCatLogo" class="c-logo c-cat-logo" href="https://developer.microsoft.com/en-us/" aria-label="Developer" itemprop="url" data-m='{"cN":"CatNav_Developer_nav","id":"n6c3m1r1a1","sN":6,"aN":"c3m1r1a1"}'>
+                                <span>Developer</span>
+                        </a>
+                    </div>
+                <div class="cat-logo-button-cont x-hidden">
+                        <button type="button" id="uhfCatLogoButton" class="c-cat-logo-button x-hidden" aria-expanded="false" aria-label="Developer" data-m='{"cN":"Developer_nonnav","id":"nn7c3m1r1a1","sN":7,"aN":"c3m1r1a1"}'>
+                            Developer
+                        </button>
+                </div>
+
+
+
+                    <nav id="uhf-g-nav" aria-label="Contextual menu" class="c-uhfh-gnav" data-m='{"cN":"Category nav_cont","cT":"Container","id":"c8c3m1r1a1","sN":8,"aN":"c3m1r1a1"}'>
+            <ul class="js-paddle-items">
+                    <li class="single-link js-nav-menu x-hidden-none-mobile-vp uhf-menu-item">
+                        <a class="c-uhf-nav-link" href="https://developer.microsoft.com/en-us/" data-m='{"cN":"CatNav_Home_nav","id":"n1c8c3m1r1a1","sN":1,"aN":"c8c3m1r1a1"}' > Home </a>
+                    </li>
+                                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_42"  aria-expanded="false" data-m='{"cN":"CatNav_Products_nonnav","id":"nn2c8c3m1r1a1","sN":2,"aN":"c8c3m1r1a1"}'>Products</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"Products_cont","cT":"Container","id":"c3c8c3m1r1a1","sN":3,"aN":"c8c3m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Dynamics 365_cont","cT":"Container","id":"c1c3c8c3m1r1a1","sN":1,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_43" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/dynamics365/get-started" data-m='{"cN":"CatNav_Dynamics 365_nav","id":"n1c1c3c8c3m1r1a1","sN":1,"aN":"c1c3c8c3m1r1a1"}'>Dynamics 365</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft 365_cont","cT":"Container","id":"c2c3c8c3m1r1a1","sN":2,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_44" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/microsoft-365/" data-m='{"cN":"CatNav_Microsoft 365_nav","id":"n1c2c3c8c3m1r1a1","sN":1,"aN":"c2c3c8c3m1r1a1"}'>Microsoft 365</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Azure_cont","cT":"Container","id":"c3c3c8c3m1r1a1","sN":3,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_45" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/azure" data-m='{"cN":"CatNav_Microsoft Azure_nav","id":"n1c3c3c8c3m1r1a1","sN":1,"aN":"c3c3c8c3m1r1a1"}'>Microsoft Azure</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Edge_cont","cT":"Container","id":"c4c3c8c3m1r1a1","sN":4,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_46" class="js-subm-uhf-nav-link" href=" https://developer.microsoft.com/microsoft-edge/" data-m='{"cN":"CatNav_Microsoft Edge_nav","id":"n1c4c3c8c3m1r1a1","sN":1,"aN":"c4c3c8c3m1r1a1"}'>Microsoft Edge</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Graph_cont","cT":"Container","id":"c5c3c8c3m1r1a1","sN":5,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_47" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/graph/" data-m='{"cN":"CatNav_Microsoft Graph_nav","id":"n1c5c3c8c3m1r1a1","sN":1,"aN":"c5c3c8c3m1r1a1"}'>Microsoft Graph</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Identity Platform_cont","cT":"Container","id":"c6c3c8c3m1r1a1","sN":6,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_48" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/identity/" data-m='{"cN":"CatNav_Microsoft Identity Platform_nav","id":"n1c6c3c8c3m1r1a1","sN":1,"aN":"c6c3c8c3m1r1a1"}'>Microsoft Identity Platform</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Teams_cont","cT":"Container","id":"c7c3c8c3m1r1a1","sN":7,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_49" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/microsoft-teams/" data-m='{"cN":"CatNav_Microsoft Teams_nav","id":"n1c7c3c8c3m1r1a1","sN":1,"aN":"c7c3c8c3m1r1a1"}'>Microsoft Teams</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Viva_cont","cT":"Container","id":"c8c3c8c3m1r1a1","sN":8,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_50" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/viva/" data-m='{"cN":"CatNav_Microsoft Viva_nav","id":"n1c8c3c8c3m1r1a1","sN":1,"aN":"c8c3c8c3m1r1a1"}'>Microsoft Viva</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Mixed Reality_cont","cT":"Container","id":"c9c3c8c3m1r1a1","sN":9,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_51" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/mixed-reality/" data-m='{"cN":"CatNav_Mixed Reality_nav","id":"n1c9c3c8c3m1r1a1","sN":1,"aN":"c9c3c8c3m1r1a1"}'>Mixed Reality</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Power Platform_cont","cT":"Container","id":"c10c3c8c3m1r1a1","sN":10,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_52" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/power-platform/" data-m='{"cN":"CatNav_Power Platform_nav","id":"n1c10c3c8c3m1r1a1","sN":1,"aN":"c10c3c8c3m1r1a1"}'>Power Platform</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Visual Studio_cont","cT":"Container","id":"c11c3c8c3m1r1a1","sN":11,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_53" class="js-subm-uhf-nav-link" href="https://visualstudio.microsoft.com/" data-m='{"cN":"CatNav_Visual Studio_nav","id":"n1c11c3c8c3m1r1a1","sN":1,"aN":"c11c3c8c3m1r1a1"}'>Visual Studio</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows_cont","cT":"Container","id":"c12c3c8c3m1r1a1","sN":12,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_54" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/windows/" data-m='{"cN":"CatNav_Windows_nav","id":"n1c12c3c8c3m1r1a1","sN":1,"aN":"c12c3c8c3m1r1a1"}'>Windows</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows for IoT_cont","cT":"Container","id":"c13c3c8c3m1r1a1","sN":13,"aN":"c3c8c3m1r1a1"}'>
+            <a id="c-shellmenu_55" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/windows/iot/" data-m='{"cN":"CatNav_Windows for IoT_nav","id":"n1c13c3c8c3m1r1a1","sN":1,"aN":"c13c3c8c3m1r1a1"}'>Windows for IoT</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_56"  aria-expanded="false" data-m='{"cN":"CatNav_Languages_nonnav","id":"nn4c8c3m1r1a1","sN":4,"aN":"c8c3m1r1a1"}'>Languages</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"Languages_cont","cT":"Container","id":"c5c8c3m1r1a1","sN":5,"aN":"c8c3m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":".NET_cont","cT":"Container","id":"c1c5c8c3m1r1a1","sN":1,"aN":"c5c8c3m1r1a1"}'>
+            <a id="c-shellmenu_57" class="js-subm-uhf-nav-link" href="https://dotnet.microsoft.com" data-m='{"cN":"CatNav_.NET_nav","id":"n1c1c5c8c3m1r1a1","sN":1,"aN":"c1c5c8c3m1r1a1"}'>.NET</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"C++_cont","cT":"Container","id":"c2c5c8c3m1r1a1","sN":2,"aN":"c5c8c3m1r1a1"}'>
+            <a id="c-shellmenu_58" class="js-subm-uhf-nav-link" href="https://visualstudio.microsoft.com/vs/features/cplusplus/" data-m='{"cN":"CatNav_C++_nav","id":"n1c2c5c8c3m1r1a1","sN":1,"aN":"c2c5c8c3m1r1a1"}'>C++</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Java_cont","cT":"Container","id":"c3c5c8c3m1r1a1","sN":3,"aN":"c5c8c3m1r1a1"}'>
+            <a id="c-shellmenu_59" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/java" data-m='{"cN":"CatNav_Java_nav","id":"n1c3c5c8c3m1r1a1","sN":1,"aN":"c3c5c8c3m1r1a1"}'>Java</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"JavaScript_cont","cT":"Container","id":"c4c5c8c3m1r1a1","sN":4,"aN":"c5c8c3m1r1a1"}'>
+            <a id="c-shellmenu_60" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/javascript" data-m='{"cN":"CatNav_JavaScript_nav","id":"n1c4c5c8c3m1r1a1","sN":1,"aN":"c4c5c8c3m1r1a1"}'>JavaScript</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Python_cont","cT":"Container","id":"c5c5c8c3m1r1a1","sN":5,"aN":"c5c8c3m1r1a1"}'>
+            <a id="c-shellmenu_61" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/python" data-m='{"cN":"CatNav_Python_nav","id":"n1c5c5c8c3m1r1a1","sN":1,"aN":"c5c5c8c3m1r1a1"}'>Python</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"TypeScript_cont","cT":"Container","id":"c6c5c8c3m1r1a1","sN":6,"aN":"c5c8c3m1r1a1"}'>
+            <a id="c-shellmenu_62" class="js-subm-uhf-nav-link" href="https://www.typescriptlang.org/" data-m='{"cN":"CatNav_TypeScript_nav","id":"n1c6c5c8c3m1r1a1","sN":1,"aN":"c6c5c8c3m1r1a1"}'>TypeScript</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_63"  aria-expanded="false" data-m='{"cN":"CatNav_Hubs_nonnav","id":"nn6c8c3m1r1a1","sN":6,"aN":"c8c3m1r1a1"}'>Hubs</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"Hubs_cont","cT":"Container","id":"c7c8c3m1r1a1","sN":7,"aN":"c8c3m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Code to cloud_cont","cT":"Container","id":"c1c7c8c3m1r1a1","sN":1,"aN":"c7c8c3m1r1a1"}'>
+            <a id="c-shellmenu_64" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/code-to-cloud" data-m='{"cN":"CatNav_Code to cloud_nav","id":"n1c1c7c8c3m1r1a1","sN":1,"aN":"c1c7c8c3m1r1a1"}'>Code to cloud</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Copilot_cont","cT":"Container","id":"c2c7c8c3m1r1a1","sN":2,"aN":"c7c8c3m1r1a1"}'>
+            <a id="c-shellmenu_65" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/copilot" data-m='{"cN":"CatNav_Copilot_nav","id":"n1c2c7c8c3m1r1a1","sN":1,"aN":"c2c7c8c3m1r1a1"}'>Copilot</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Game development_cont","cT":"Container","id":"c3c7c8c3m1r1a1","sN":3,"aN":"c7c8c3m1r1a1"}'>
+            <a id="c-shellmenu_66" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/games/" data-m='{"cN":"CatNav_Game development_nav","id":"n1c3c7c8c3m1r1a1","sN":1,"aN":"c3c7c8c3m1r1a1"}'>Game development</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="c-shellmenu_67" class="c-uhf-nav-link" href="https://developer.microsoft.com/en-us/blogs" data-m='{"cN":"CatNav_Blogs_nav","id":"n8c8c3m1r1a1","sN":8,"aN":"c8c3m1r1a1"}'>Blogs</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="c-shellmenu_68" class="c-uhf-nav-link" href="https://developer.microsoft.com/en-us/events" data-m='{"cN":"CatNav_Events_nav","id":"n9c8c3m1r1a1","sN":9,"aN":"c8c3m1r1a1"}'>Events</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="c-shellmenu_69" class="c-uhf-nav-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"CatNav_Documentation_nav","id":"n10c8c3m1r1a1","sN":10,"aN":"c8c3m1r1a1"}'>Documentation</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="c-shellmenu_70" class="c-uhf-nav-link" href="https://developer.microsoft.com/en-us/community" data-m='{"cN":"CatNav_Community_nav","id":"n11c8c3m1r1a1","sN":11,"aN":"c8c3m1r1a1"}'>Community</a>
+                        </li>
+
+
+                <li id="overflow-menu" class="overflow-menu x-hidden uhf-menu-item">
+                        <div class="c-uhf-menu js-nav-menu">
+        <button data-m='{"pid":"More","id":"nn12c8c3m1r1a1","sN":12,"aN":"c8c3m1r1a1"}' type="button" aria-label="More" aria-expanded="false">More</button>
+        <ul id="overflow-menu-list" aria-hidden="true" class="overflow-menu-list">
+        </ul>
+    </div>
+
+                </li>
+                            </ul>
+            
+        </nav>
+
+
+            <div class="c-uhfh-actions" data-m='{"cN":"Header actions_cont","cT":"Container","id":"c9c3m1r1a1","sN":9,"aN":"c3m1r1a1"}'>
+                <div class="wf-menu">        <nav id="uhf-c-nav" aria-label="All Microsoft menu" data-m='{"cN":"GlobalNav_cont","cT":"Container","id":"c1c9c3m1r1a1","sN":1,"aN":"c9c3m1r1a1"}'>
+            <ul class="js-paddle-items">
+                <li>
+                    <div class="c-uhf-menu js-nav-menu">
+                        <button type="button" class="c-button-logo all-ms-nav" aria-expanded="false" data-m='{"cN":"GlobalNav_More_nonnav","id":"nn1c1c9c3m1r1a1","sN":1,"aN":"c1c9c3m1r1a1"}'> <span>All Microsoft</span></button>
+                        <ul class="f-multi-column f-multi-column-4" aria-hidden="true" data-m='{"cN":"More_cont","cT":"Container","id":"c2c1c9c3m1r1a1","sN":2,"aN":"c1c9c3m1r1a1"}'>
+                                    <li class="c-w0-contr">
+            <h2 class="c-uhf-sronly">Global</h2>
+            <ul class="c-w0">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Security_cont","cT":"Container","id":"c1c2c1c9c3m1r1a1","sN":1,"aN":"c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_0" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/security" data-m='{"cN":"W0Nav_Microsoft Security_nav","id":"n1c1c2c1c9c3m1r1a1","sN":1,"aN":"c1c2c1c9c3m1r1a1"}'>Microsoft Security</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Azure_cont","cT":"Container","id":"c2c2c1c9c3m1r1a1","sN":2,"aN":"c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_1" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/" data-m='{"cN":"W0Nav_Azure_nav","id":"n1c2c2c1c9c3m1r1a1","sN":1,"aN":"c2c2c1c9c3m1r1a1"}'>Azure</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Dynamics 365_cont","cT":"Container","id":"c3c2c1c9c3m1r1a1","sN":3,"aN":"c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_2" class="js-subm-uhf-nav-link" href="https://dynamics.microsoft.com/en-us/" data-m='{"cN":"W0Nav_Dynamics 365_nav","id":"n1c3c2c1c9c3m1r1a1","sN":1,"aN":"c3c2c1c9c3m1r1a1"}'>Dynamics 365</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft 365_cont","cT":"Container","id":"c4c2c1c9c3m1r1a1","sN":4,"aN":"c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_3" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-365/business/" data-m='{"cN":"W0Nav_Microsoft 365_nav","id":"n1c4c2c1c9c3m1r1a1","sN":1,"aN":"c4c2c1c9c3m1r1a1"}'>Microsoft 365</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Teams_cont","cT":"Container","id":"c5c2c1c9c3m1r1a1","sN":5,"aN":"c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_4" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" data-m='{"cN":"W0Nav_Microsoft Teams_nav","id":"n1c5c2c1c9c3m1r1a1","sN":1,"aN":"c5c2c1c9c3m1r1a1"}'>Microsoft Teams</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows 365_cont","cT":"Container","id":"c6c2c1c9c3m1r1a1","sN":6,"aN":"c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_5" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/windows-365" data-m='{"cN":"W0Nav_Windows 365_nav","id":"n1c6c2c1c9c3m1r1a1","sN":1,"aN":"c6c2c1c9c3m1r1a1"}'>Windows 365</a>
+            
+        </li>
+            </ul>
+        </li>
+
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c7c2c1c9c3m1r1a1","sN":7,"aN":"c2c1c9c3m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_7-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c7c2c1c9c3m1r1a1","sN":1,"aN":"c7c2c1c9c3m1r1a1"}'>Tech &amp; innovation</span>
+    <button id="uhf-navbtn-shellmenu_7-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c7c2c1c9c3m1r1a1","sN":2,"aN":"c7c2c1c9c3m1r1a1"}'>Tech &amp; innovation</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_7-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_MicrosoftCloud_cont","cT":"Container","id":"c3c7c2c1c9c3m1r1a1","sN":3,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_8" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-cloud" data-m='{"cN":"GlobalNav_More_TechInnovation_MicrosoftCloud_nav","id":"n1c3c7c2c1c9c3m1r1a1","sN":1,"aN":"c3c7c2c1c9c3m1r1a1"}'>Microsoft Cloud</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation__AI_cont","cT":"Container","id":"c4c7c2c1c9c3m1r1a1","sN":4,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_9" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/ai" data-m='{"cN":"GlobalNav_More_TechInnovation__AI_nav","id":"n1c4c7c2c1c9c3m1r1a1","sN":1,"aN":"c4c7c2c1c9c3m1r1a1"}'>AI</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_AzureSpace_cont","cT":"Container","id":"c5c7c2c1c9c3m1r1a1","sN":5,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_10" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/solutions/space/" data-m='{"cN":"GlobalNav_More_TechInnovation_AzureSpace_nav","id":"n1c5c7c2c1c9c3m1r1a1","sN":1,"aN":"c5c7c2c1c9c3m1r1a1"}'>Azure Space</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_MixedReality_cont","cT":"Container","id":"c6c7c2c1c9c3m1r1a1","sN":6,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_11" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/mixed-reality/windows-mixed-reality" data-m='{"cN":"GlobalNav_More_TechInnovation_MixedReality_nav","id":"n1c6c7c2c1c9c3m1r1a1","sN":1,"aN":"c6c7c2c1c9c3m1r1a1"}'>Mixed reality</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_MicrosoftHololens_cont","cT":"Container","id":"c7c7c2c1c9c3m1r1a1","sN":7,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_12" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/hololens" data-m='{"cN":"GlobalNav_More_TechInnovation_MicrosoftHololens_nav","id":"n1c7c7c2c1c9c3m1r1a1","sN":1,"aN":"c7c7c2c1c9c3m1r1a1"}'>Microsoft HoloLens</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_Microsoft Viva_cont","cT":"Container","id":"c8c7c2c1c9c3m1r1a1","sN":8,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_13" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-viva" data-m='{"cN":"GlobalNav_More_TechInnovation_Microsoft Viva_nav","id":"n1c8c7c2c1c9c3m1r1a1","sN":1,"aN":"c8c7c2c1c9c3m1r1a1"}'>Microsoft Viva</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_QuantumComputing_cont","cT":"Container","id":"c9c7c2c1c9c3m1r1a1","sN":9,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_14" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/solutions/quantum-computing/" data-m='{"cN":"GlobalNav_More_TechInnovation_QuantumComputing_nav","id":"n1c9c7c2c1c9c3m1r1a1","sN":1,"aN":"c9c7c2c1c9c3m1r1a1"}'>Quantum computing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_Sustainability_cont","cT":"Container","id":"c10c7c2c1c9c3m1r1a1","sN":10,"aN":"c7c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_15" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/sustainability/" data-m='{"cN":"GlobalNav_More_TechInnovation_Sustainability_nav","id":"n1c10c7c2c1c9c3m1r1a1","sN":1,"aN":"c10c7c2c1c9c3m1r1a1"}'>Sustainability</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c8c2c1c9c3m1r1a1","sN":8,"aN":"c2c1c9c3m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_16-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c8c2c1c9c3m1r1a1","sN":1,"aN":"c8c2c1c9c3m1r1a1"}'>Industries</span>
+    <button id="uhf-navbtn-shellmenu_16-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c8c2c1c9c3m1r1a1","sN":2,"aN":"c8c2c1c9c3m1r1a1"}'>Industries</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_16-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Education_cont","cT":"Container","id":"c3c8c2c1c9c3m1r1a1","sN":3,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_17" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/education" data-m='{"cN":"GlobalNav_More_Industries_Education_nav","id":"n1c3c8c2c1c9c3m1r1a1","sN":1,"aN":"c3c8c2c1c9c3m1r1a1"}'>Education</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Automotive_cont","cT":"Container","id":"c4c8c2c1c9c3m1r1a1","sN":4,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_18" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/automotive" data-m='{"cN":"GlobalNav_More_Industries_Automotive_nav","id":"n1c4c8c2c1c9c3m1r1a1","sN":1,"aN":"c4c8c2c1c9c3m1r1a1"}'>Automotive</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Financialservices_cont","cT":"Container","id":"c5c8c2c1c9c3m1r1a1","sN":5,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_19" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/financial-services/banking" data-m='{"cN":"GlobalNav_More_Industries_Financialservices_nav","id":"n1c5c8c2c1c9c3m1r1a1","sN":1,"aN":"c5c8c2c1c9c3m1r1a1"}'>Financial services</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Government_cont","cT":"Container","id":"c6c8c2c1c9c3m1r1a1","sN":6,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_20" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/government" data-m='{"cN":"GlobalNav_More_Industries_Government_nav","id":"n1c6c8c2c1c9c3m1r1a1","sN":1,"aN":"c6c8c2c1c9c3m1r1a1"}'>Government</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Health_cont","cT":"Container","id":"c7c8c2c1c9c3m1r1a1","sN":7,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_21" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/health" data-m='{"cN":"GlobalNav_More_Industries_Health_nav","id":"n1c7c8c2c1c9c3m1r1a1","sN":1,"aN":"c7c8c2c1c9c3m1r1a1"}'>Healthcare</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Manufacturing_cont","cT":"Container","id":"c8c8c2c1c9c3m1r1a1","sN":8,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_22" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/manufacturing" data-m='{"cN":"GlobalNav_More_Industries_Manufacturing_nav","id":"n1c8c8c2c1c9c3m1r1a1","sN":1,"aN":"c8c8c2c1c9c3m1r1a1"}'>Manufacturing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Retail_cont","cT":"Container","id":"c9c8c2c1c9c3m1r1a1","sN":9,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_23" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/retail-consumer-goods" data-m='{"cN":"GlobalNav_More_Industries_Retail_nav","id":"n1c9c8c2c1c9c3m1r1a1","sN":1,"aN":"c9c8c2c1c9c3m1r1a1"}'>Retail</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Allindustries_cont","cT":"Container","id":"c10c8c2c1c9c3m1r1a1","sN":10,"aN":"c8c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_24" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry" data-m='{"cN":"GlobalNav_More_Industries_Allindustries_nav","id":"n1c10c8c2c1c9c3m1r1a1","sN":1,"aN":"c10c8c2c1c9c3m1r1a1"}'>All industries</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c9c2c1c9c3m1r1a1","sN":9,"aN":"c2c1c9c3m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_25-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c9c2c1c9c3m1r1a1","sN":1,"aN":"c9c2c1c9c3m1r1a1"}'>Partners</span>
+    <button id="uhf-navbtn-shellmenu_25-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c9c2c1c9c3m1r1a1","sN":2,"aN":"c9c2c1c9c3m1r1a1"}'>Partners</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_25-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_FindPartner_cont","cT":"Container","id":"c3c9c2c1c9c3m1r1a1","sN":3,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_26" class="js-subm-uhf-nav-link" href="https://partner.microsoft.com/en-US/" data-m='{"cN":"GlobalNav_More_Partner_FindPartner_nav","id":"n1c3c9c2c1c9c3m1r1a1","sN":1,"aN":"c3c9c2c1c9c3m1r1a1"}'>Find a partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_BecomePartner_cont","cT":"Container","id":"c4c9c2c1c9c3m1r1a1","sN":4,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_27" class="js-subm-uhf-nav-link" href="https://partner.microsoft.com/en-US/membership/cloud-solution-provider" data-m='{"cN":"GlobalNav_More_Partner_BecomePartner_nav","id":"n1c4c9c2c1c9c3m1r1a1","sN":1,"aN":"c4c9c2c1c9c3m1r1a1"}'>Become a partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_PartnerNetwork_cont","cT":"Container","id":"c5c9c2c1c9c3m1r1a1","sN":5,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_28" class="js-subm-uhf-nav-link" href="https://partner.microsoft.com/en-us/membership" data-m='{"cN":"GlobalNav_More_Partner_PartnerNetwork_nav","id":"n1c5c9c2c1c9c3m1r1a1","sN":1,"aN":"c5c9c2c1c9c3m1r1a1"}'>Partner Network</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_FindAdvertisingPartner_cont","cT":"Container","id":"c6c9c2c1c9c3m1r1a1","sN":6,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_29" class="js-subm-uhf-nav-link" href="https://about.ads.microsoft.com/en-us/resources/microsoft-advertising-partner-program/microsoft-advertising-partner-program" data-m='{"cN":"GlobalNav_More_Partner_FindAdvertisingPartner_nav","id":"n1c6c9c2c1c9c3m1r1a1","sN":1,"aN":"c6c9c2c1c9c3m1r1a1"}'>Find an advertising partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_BecomeAdvertisingPartner_cont","cT":"Container","id":"c7c9c2c1c9c3m1r1a1","sN":7,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_30" class="js-subm-uhf-nav-link" href="https://about.ads.microsoft.com/en-us/partners/welcome?s_cid=en-us-gct-web-src_ext-sub_0-flx_uhfcombepartner" data-m='{"cN":"GlobalNav_More_Partner_BecomeAdvertisingPartner_nav","id":"n1c7c9c2c1c9c3m1r1a1","sN":1,"aN":"c7c9c2c1c9c3m1r1a1"}'>Become an advertising partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_AzureMarketplace_cont","cT":"Container","id":"c8c9c2c1c9c3m1r1a1","sN":8,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_31" class="js-subm-uhf-nav-link" href="https://azuremarketplace.microsoft.com/en-us/" data-m='{"cN":"GlobalNav_More_Partner_AzureMarketplace_nav","id":"n1c8c9c2c1c9c3m1r1a1","sN":1,"aN":"c8c9c2c1c9c3m1r1a1"}'>Azure Marketplace</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_AppSource_cont","cT":"Container","id":"c9c9c2c1c9c3m1r1a1","sN":9,"aN":"c9c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_32" class="js-subm-uhf-nav-link" href="https://appsource.microsoft.com/en-us/" data-m='{"cN":"GlobalNav_More_Partner_AppSource_nav","id":"n1c9c9c2c1c9c3m1r1a1","sN":1,"aN":"c9c9c2c1c9c3m1r1a1"}'>AppSource</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c10c2c1c9c3m1r1a1","sN":10,"aN":"c2c1c9c3m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_33-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c10c2c1c9c3m1r1a1","sN":1,"aN":"c10c2c1c9c3m1r1a1"}'>Resources</span>
+    <button id="uhf-navbtn-shellmenu_33-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c10c2c1c9c3m1r1a1","sN":2,"aN":"c10c2c1c9c3m1r1a1"}'>Resources</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_33-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Blog_cont","cT":"Container","id":"c3c10c2c1c9c3m1r1a1","sN":3,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_34" class="js-subm-uhf-nav-link" href="https://blogs.microsoft.com/" data-m='{"cN":"GlobalNav_More_Resources_Blog_nav","id":"n1c3c10c2c1c9c3m1r1a1","sN":1,"aN":"c3c10c2c1c9c3m1r1a1"}'>Blog</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_MicrosoftAdvertising_cont","cT":"Container","id":"c4c10c2c1c9c3m1r1a1","sN":4,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_35" class="js-subm-uhf-nav-link" href="https://about.ads.microsoft.com/en-us?s_cid=dig-src_uhfcomm" data-m='{"cN":"GlobalNav_More_Resources_MicrosoftAdvertising_nav","id":"n1c4c10c2c1c9c3m1r1a1","sN":1,"aN":"c4c10c2c1c9c3m1r1a1"}'>Microsoft Advertising</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_DeveloperCenter_cont","cT":"Container","id":"c5c10c2c1c9c3m1r1a1","sN":5,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_36" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/" data-m='{"cN":"GlobalNav_More_Resources_DeveloperCenter_nav","id":"n1c5c10c2c1c9c3m1r1a1","sN":1,"aN":"c5c10c2c1c9c3m1r1a1"}'>Developer Center</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Documentation_cont","cT":"Container","id":"c6c10c2c1c9c3m1r1a1","sN":6,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_37" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"GlobalNav_More_Resources_Documentation_nav","id":"n1c6c10c2c1c9c3m1r1a1","sN":1,"aN":"c6c10c2c1c9c3m1r1a1"}'>Documentation</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Events_cont","cT":"Container","id":"c7c10c2c1c9c3m1r1a1","sN":7,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_38" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/events" data-m='{"cN":"GlobalNav_More_Resources_Events_nav","id":"n1c7c10c2c1c9c3m1r1a1","sN":1,"aN":"c7c10c2c1c9c3m1r1a1"}'>Events</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Licensing_cont","cT":"Container","id":"c8c10c2c1c9c3m1r1a1","sN":8,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_39" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/licensing/" data-m='{"cN":"GlobalNav_More_Resources_Licensing_nav","id":"n1c8c10c2c1c9c3m1r1a1","sN":1,"aN":"c8c10c2c1c9c3m1r1a1"}'>Licensing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_MicrosoftLearn_cont","cT":"Container","id":"c9c10c2c1c9c3m1r1a1","sN":9,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_40" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/" data-m='{"cN":"GlobalNav_More_Resources_MicrosoftLearn_nav","id":"n1c9c10c2c1c9c3m1r1a1","sN":1,"aN":"c9c10c2c1c9c3m1r1a1"}'>Microsoft Learn</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_MicrosoftResearch_cont","cT":"Container","id":"c10c10c2c1c9c3m1r1a1","sN":10,"aN":"c10c2c1c9c3m1r1a1"}'>
+            <a id="shellmenu_41" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/research/" data-m='{"cN":"GlobalNav_More_Resources_MicrosoftResearch_nav","id":"n1c10c10c2c1c9c3m1r1a1","sN":1,"aN":"c10c10c2c1c9c3m1r1a1"}'>Microsoft Research</a>
+            
+        </li>
+    </ul>
+    
+</li>
+                                                            <li class="f-multi-column-info">
+                                    <a data-m='{"id":"n11c2c1c9c3m1r1a1","sN":11,"aN":"c2c1c9c3m1r1a1"}' href="https://www.microsoft.com/en-us/sitemap.aspx" aria-label="" class="c-glyph">View Sitemap</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+</div>
+                            <form class="c-search" autocomplete="off" id="searchForm" name="searchForm" role="search" action="https://www.microsoft.com/en-us/search/explore" method="GET" data-seAutoSuggest='{"queryParams":{"market":"en-us","clientId":"7F27B536-CF6B-4C65-8638-A0F8CBDFCA65","sources":"Iris-Products,DCatAll-Products,Microsoft-Terms","filter":"+ClientType:StoreWeb","counts":"1,5,5"},"familyNames":{"Apps":"App","Books":"Book","Bundles":"Bundle","Devices":"Device","Fees":"Fee","Games":"Game","MusicAlbums":"Album","MusicTracks":"Song","MusicVideos":"Video","MusicArtists":"Artist","OperatingSystem":"Operating System","Software":"Software","Movies":"Movie","TV":"TV","CSV":"Gift Card","VideoActor":"Actor"}}' data-seautosuggestapi="https://www.microsoft.com/msstoreapiprod/api/autosuggest" data-m='{"cN":"GlobalNav_Search_cont","cT":"Container","id":"c3c1c9c3m1r1a1","sN":3,"aN":"c1c9c3m1r1a1"}' aria-expanded="false">
+                                <input  id="cli_shellHeaderSearchInput" aria-label="Search Expanded" aria-autocomplete="list" aria-expanded="false" aria-controls="universal-header-search-auto-suggest-transparent" aria-owns="universal-header-search-auto-suggest-ul" type="search" name="q" role="combobox" placeholder="Search Microsoft.com" data-m='{"cN":"SearchBox_nav","id":"n1c3c1c9c3m1r1a1","sN":1,"aN":"c3c1c9c3m1r1a1"}' data-toggle="tooltip" data-placement="right" title="Search Microsoft.com" />
+                                    <button id="search" aria-label="Search Microsoft.com" class="c-glyph" data-m='{"cN":"Search_nav","id":"n2c3c1c9c3m1r1a1","sN":2,"aN":"c3c1c9c3m1r1a1"}' data-bi-mto="true" aria-expanded="false" disabled="disabled">
+                                        <span role="presentation">Search</span>
+                                        <span role="tooltip" class="c-uhf-tooltip c-uhf-search-tooltip">Search Microsoft.com</span>
+                                    </button>
+                                <div class="m-auto-suggest" id="universal-header-search-auto-suggest-transparent" role="group">
+                                    <ul class="c-menu" id="universal-header-search-auto-suggest-ul" aria-label="Search Suggestions" aria-hidden="true" data-bi-dnt="true" data-bi-mto="true" data-js-auto-suggest-position="default" role="listbox" data-tel="jsll" data-m='{"cN":"search suggestions_cont","cT":"Container","id":"c3c3c1c9c3m1r1a1","sN":3,"aN":"c3c1c9c3m1r1a1"}'></ul>
+                                    <ul class="c-menu f-auto-suggest-no-results" aria-hidden="true" data-js-auto-suggest-postion="default" data-js-auto-suggest-position="default" role="listbox">
+                                        <li class="c-menu-item"> <span tabindex="-1">No results</span></li>
+                                    </ul>
+                                </div>
+                                
+                            </form>
+                        <button data-m='{"cN":"cancel-search","pid":"Cancel Search","id":"nn4c1c9c3m1r1a1","sN":4,"aN":"c1c9c3m1r1a1"}' id="cancel-search" class="cancel-search" aria-label="Cancel Search">
+                            <span>Cancel</span>
+                        </button>
+                        <div id="meControl" class="c-me"  data-signinsettings='{"containerId":"meControl","enabled":true,"headerHeight":48,"debug":false,"extensibleLinks":[{"string":"Order history","url":"https://www.microsoftstore.com/store/msusa/en_US/DisplayFindYourOrderPage/nextAction.DisplayAccountOrderListPage","id":""},{"string":"Return history","url":"https://www.microsoftstore.com/store/msusa/en_US/DisplayFindYourOrderPage/nextAction.DisplayAccountReturnListPage","id":""},{"string":"Digital content","url":"https://www.microsoftstore.com/store/msusa/en_US/DisplayFindYourOrderPage/nextAction.DisplayDownloadHistoryPage","id":""},{"string":"Wish list","url":"https://www.microsoftstore.com/store/msusa/en_US/wishlists?Wt.mc_id=wishlist_landingpage","id":""},{"string":"Payment","url":"https://www.microsoftstore.com/store/msusa/en_US/DisplayAddEditPaymentPage/","id":""},{"string":"Profile","url":"https://www.microsoftstore.com/store/msusa/en_US/DisplayEditProfilePage/tab.profile","id":""}],"userData":{"idp":"msa","firstName":"","lastName":"","memberName":"","cid":"","authenticatedState":"3"},"rpData":{"preferredIdp":"msa","msaInfo":{"signInUrl":"/en-us/store/signin","signOutUrl":"/en-us/store/signout","meUrl":"https://login.live.com/me.srf?wa=wsignin1.0"},"aadInfo":{"signOutUrl":"/en-us/store/signout","appId":"","siteUrl":"","blockMsaFed":true}}}' data-m='{"cN":"GlobalNav_Account_cont","cT":"Container","id":"c5c1c9c3m1r1a1","sN":5,"aN":"c1c9c3m1r1a1"}'>
+                            <div class="msame_Header">
+                                <div class="msame_Header_name st_msame_placeholder">Sign in</div>
+                            </div>
+                            
+                        </div>
+                
+            </div>
+        </div>
+        
+        
+    </div>
+    
+</header>
+
+
+
+
+    </div>
+        </div>
+
+    </div>
+ 
+
+    <div b-snxqalre11 class="jumbotron">
+        <div b-snxqalre11 class="site-banners">
+
+
+
+<svg style="display:none;">
+    <symbol id="megaphone-loud" viewBox="0 0 20 20"> 
+        <path d="M14.1582 1.02579C14.4202 1.11312 14.5618 1.39628 14.4745 1.65825L13.9745 3.15825C13.8872 3.42022 13.604 3.5618 13.342 3.47448C13.0801 3.38715 12.9385 3.10399 13.0258 2.84202L13.5258 1.34202C13.6131 1.08005 13.8963 0.93847 14.1582 1.02579ZM17.8545 2.85368C18.0498 2.65841 18.0498 2.34183 17.8545 2.14657C17.6593 1.95131 17.3427 1.95131 17.1474 2.14657L15.1474 4.14657C14.9522 4.34183 14.9522 4.65841 15.1474 4.85368C15.3427 5.04894 15.6593 5.04894 15.8545 4.85368L17.8545 2.85368ZM7.60704 3.14558C8.21072 1.87503 9.90269 1.60818 10.8681 2.63126L17.4549 9.61146C18.4032 10.6164 18.0711 12.2573 16.8066 12.8144L12.8695 14.5488C12.9544 14.8508 12.9998 15.1693 12.9998 15.4985C12.9998 17.4315 11.4328 18.9985 9.49984 18.9985C8.24407 18.9985 7.14276 18.3371 6.52522 17.3437L5.3246 17.8727C4.76043 18.1212 4.10165 17.9992 3.66384 17.5652L2.44207 16.3541C1.9897 15.9056 1.86989 15.2204 2.14325 14.6451L7.60704 3.14558ZM7.4534 16.9348C7.90573 17.5781 8.6537 17.9985 9.49984 17.9985C10.8806 17.9985 11.9998 16.8792 11.9998 15.4985C11.9998 15.3128 11.9796 15.1319 11.9412 14.9578L7.4534 16.9348ZM17 6.00012C16.7239 6.00012 16.5 6.22398 16.5 6.50012C16.5 6.77626 16.7239 7.00012 17 7.00012H18.4992C18.7754 7.00012 18.9992 6.77626 18.9992 6.50012C18.9992 6.22398 18.7754 6.00012 18.4992 6.00012H17Z" />
+    </symbol>
+</svg>
+
+
+<div class="alert alert-dismissable hidden" role="alert">
+    <div class="icon-and-content">
+        <svg width="20" height="20" class="icon" fill="CurrentColor" version="2.0">
+            <use href="#megaphone-loud"></use>
+        </svg>
+        <div class="content">
+            <div class="title-and-description">
+                <div class="title">
+                    Azure Developer Hub
+                </div>
+                <div>
+                    Explore the latest news, updates, and targeted content for Azure developers.
+                </div>
+            </div>
+            <div class="alert-action">
+                <a href="/en-us/azure" class="btn btn-primary" target="_self">Go to site</a>
+            </div>
+        </div>
+    </div>
+
+    <button type="button" class="close alert-dismiss" aria-label="close" data-dismiss="alert" data-identifier="devcom-2024-04-azureDev">&times;</button>
+</div>
+        </div>
+    </div>
+
+    <div b-snxqalre11 id="main" role="main">
+        
+
+
+
+<div id="homepage">
+    <section id="hero">
+        <div class="hero-text container">
+            <p class="pane-header">Microsoft Developer</p>
+            <h1 class="pb-3 mb-0">
+                <span>Any platform.</span>
+                <br class="d-lg-none" />
+                <span>Any language.</span>
+                <br />
+                <span>Our tools.</span>
+            </h1>
+        </div>
+
+        <div id="hero-features" class="container-fluid">
+            <div class="container">
+                <div class="row g-4 h-100">
+                    <div class="col-12 col-md-4">
+                        <div class="card border-radius-24 h-100">
+                            <picture>
+                                <source type="image/webp" srcset="../_devcom/images/views/index/hero-feature-vscopilot@2x.webp">
+                                <source type="image/png" srcset="../_devcom/images/views/index/hero-feature-vscopilot@2x.png">
+                                <img class="card-img-top" src="../_devcom/images/views/index/hero-feature-vscopilot@2x.png" alt="">
+                            </picture>
+                            <div class="card-body pb-0">
+                                <h3>
+                                    Supercharge Visual Studio 2022 with GitHub Copilot
+                                </h3>
+                                <p>Spend more time on code that matters, with your AI pair programmer.</p>
+                            </div>
+                            <div class="card-footer pt-0">
+                                <a href="https://visualstudio.microsoft.com/github-copilot/?utm_source=devcom-homepage&utm_medium=web&utm_id=landing-page&utm_campaign=devcom-hp-hero-to-copilot-lp&wt.mc_id=developermscom" 
+                                target="_blank" class="btn btn-link" 
+                                data-bi-cN="Supercharge with Visual Studio Code and GitHub Copilot" 
+                                data-bi-aN="hero-feature">Get started</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="card border-radius-24 h-100">
+                            <picture>
+                                <source type="image/webp" srcset="../_devcom/images/views/index/hero-feature-azureaistudio@2x.webp">
+                                <source type="image/png" srcset=".../_devcom/images/views/index/hero-feature-azureaistudio@2x.png">
+                                <img class="card-img-top" src="../_devcom/images/views/index/hero-feature-azureaistudio@2x.png" alt="">
+                            </picture>
+                            <div class="card-body pb-0">
+                                <h3>
+                                    Create innovative AI solutions with Azure AI Studio
+                                </h3>
+                                <p>Your platform for developing, testing, and deploying generative AI apps responsibly.</p>
+                            </div>
+                            <div class="card-footer pt-0">
+                                <a href="https://azure.microsoft.com/products/ai-studio/" target="_blank" class="btn btn-link" 
+                                data-bi-cN="Create innovative AI solutions with Azure AI Studio" 
+                                data-bi-aN="hero-feature">Build now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="card border-radius-24 h-100">
+                            <picture>
+                                <source type="image/webp" srcset="../_devcom/images/views/index/hero-feature-wsl@2x.webp">
+                                <source type="image/png" srcset="../_devcom/images/views/index/hero-feature-wsl@2x.png">
+                                <img class="card-img-top" src="../_devcom/images/views/index/hero-feature-wsl@2x.png" alt="">
+                            </picture>
+                            <div class="card-body pb-0">
+                                <h3>
+                                    Use your favorite dev tools with Windows Subsystem for Linux
+                                </h3>
+                                <p>WSL enables you to run Linux distributions and Bash tools, fully integrated with Windows, Visual Studio Code, Docker, Git, and more.</p>
+                            </div>
+                            <div class="card-footer pt-0">
+                                <a href="https://learn.microsoft.com/windows/wsl/install" target="_blank" class="btn btn-link" 
+                                data-bi-cN="Use your favorite dev tools with Windows Subsystem for Linux" 
+                                data-bi-aN="hero-feature">Install today</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="ad-banner" class="container-fluid pt-5 padding-x-collapse">
+        <div class="container padding-x-collapse">
+            <div class="row">
+                <div class="col">
+
+<div class="microsoft-ai microsoft-ai-2 card border-radius-24 border-radius-collapse">
+    <div class="lazyload card-body hero banner-card banner-card-mobile border-radius-24 border-radius-collapse">
+        <h2 class="hero-title break text-black">Power your AI transformation with Microsoft Copilot</h2>
+        <p class="pane-header pb-4 mb-0 text-black">
+            Shape the future with Microsoft's groundbreaking generative AI technologies, industry-leading developer tools, trusted platform, and global scale.</p>
+        <a class="btn btn-primary text-white" target="_self" data-bi-cN="microsoft-ai" data-bi-aN="microsoft-ai" style="display: inline-flex; max-width: fit-content; margin-bottom: 0.9rem;" href="/en-us/copilot?wt.mc_id=developermscom">Learn more</a>
+    </div>
+</div>                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="body-bg-bottom">
+        <section id="start-building-header" class="container-fluid">
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-12">
+                        <h2 class="mb-0">Start building with these Microsoft products</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="start-building" class="container-fluid padding-x-collapse">
+            <div class="container card-scroll-wrapper padding-x-collapse">
+                <div class="row g-3 scroll-row">
+                    <div class="col-12 col-lg-4">
+                        <a class="cardLink" href="https://developer.microsoft.com/microsoft-365/" data-bi-cN="Microsoft 365" data-bi-aN="Start building with these Microsoft products">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img data-src="../_devcom/images/icon-ms-logo-v2.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Microsoft 365</h3>
+                                    <p class="mb-0">Create engaging experiences and bring users into your app as they work day-to-day in Microsoft 365.</p>
+                                </div>
+                                <img data-src="../_devcom/images/card-m365-bg-bottom.png" class="lazyload card-img-bottom" role="presentation" alt="">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <a class="cardLink" data-bi-cN="Microsoft Azure" data-bi-aN="Start building with these Microsoft products" href="/en-us/azure">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img data-src="../_devcom/images/icon-azure.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Microsoft Azure</h3>
+                                    <p class="mb-0">Turn your ideas into solutions with cloud services. Build how you want and deploy where you want.</p>
+                                </div>
+                                <img data-src="../_devcom/images/card-azure-bg-bottom.png" class="lazyload card-img-bottom" role="presentation" alt="">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <a class="cardLink" href="https://developer.microsoft.com/microsoft-teams/" data-bi-cN="Microsoft Teams" data-bi-aN="Start building with these Microsoft products">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img data-src="../_devcom/images/icon-teams.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Microsoft Teams</h3>
+                                    <p class="mb-0">Build intelligent, collaborative apps that engage users in their flow of work with Teams.</p>
+                                </div>
+                                <img data-src="../_devcom/images/card-teams-bg-bottom.png" class="lazyload card-img-bottom" role="presentation" alt="">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <a class="cardLink" href="https://developer.microsoft.com/power-platform/" data-bi-cN="Power Platform" data-bi-aN="Start building with these Microsoft products">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img data-src="../_devcom/images/icon-power-platform.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Power Platform</h3>
+                                    <p class="mb-0">Accelerate innovation and turn your ideas into powerful solutions with Power Platform.</p>
+                                </div>
+                                <img data-src="../_devcom/images/card-power-platform-bg-bottom.png" class="lazyload card-img-bottom" role="presentation" alt="">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <a class="cardLink" href="https://visualstudio.microsoft.com/" target="_blank" data-bi-cN="Visual Studio" data-bi-aN="Start building with these Microsoft products">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img data-src="../_devcom/images/icon-visual-studio.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Visual Studio</h3>
+                                    <p class="mb-0">Best-in-class tools for any developer. Use your favorite language to deliver apps and services on any platform.</p>
+                                </div>
+                                <img data-src="../_devcom/images/card-visualstudio-bg-bottom.png" class="lazyload card-img-bottom" role="presentation" alt="">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <a class="cardLink" href="https://developer.microsoft.com/windows/" data-bi-cN="Windows" data-bi-aN="Start building with these Microsoft products">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img data-src="../_devcom/images/icon-windows.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Windows</h3>
+                                    <p class="mb-0">Develop for Windows. Build experiences that reach users everywhere.</p>
+                                </div>
+                                <img data-src="../_devcom/images/card-windows-bg-bottom.png" class="lazyload card-img-bottom" role="presentation" alt="">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ad-banner" class="container-fluid pt-5 padding-x-collapse">
+            <div class="container padding-x-collapse">
+                <div class="row">
+                    <div class="col">
+<div class="build-2024 card border-radius-24 border-radius-collapse">
+    <div class="lazyload card-body hero banner-card banner-card-mobile border-radius-24 border-radius-collapse">
+        <p class="pane-header" style="color: #C1AFFF;">May 21 - 23, 2024</p>
+        <h2 class="hero-title break text-white">Microsoft Build</h2>
+        <p class="pane-header mb-0 text-white">How will AI shape your future?</p>
+        <div class="details">
+            <p class="pane-header mb-0 text-white">Seattle, WA and online</p>
+        </div>
+
+
+        <a class="btn btn-outline-light text-white"
+            href="https://build.microsoft.com/home?wt.mc_ID=Build2024_esc_corp_bn_oo_bn_banners"
+            data-bi-cN="build-2024" 
+            data-bi-aN="banner-2"
+            style="display: inline-flex; max-width: fit-content;"
+            target="_blank">Register now</a>
+    </div>
+</div>                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="other-ways-to-start-header" class="container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mb-0 py-5">Other ways to get your project started</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="other-ways-to-start" class="container-fluid padding-x-collapse">
+            <div class="container padding-x-collapse">
+                <div class="row scroll-row g-3">
+                    <div class="col-11 col-md-3">
+                        <a class="cardLink" href="https://learn.microsoft.com/azure/developer/intro/azure-developer-overview/" target="_blank" data-bi-cN="Cloud development" data-bi-aN="Other ways to get your project started">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img style="width:42px" data-src="../_devcom/images/icon-cloud-dev@2x.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Cloud development</h3>
+                                    <p>Develop cloud applications for Microsoft Azure.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-11 col-md-3">
+                        <a class="cardLink" data-bi-cN="Code to Cloud" data-bi-aN="Other ways to get your project started" href="/en-us/code-to-cloud">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img style="width:42px" data-src="../_devcom/images/icon-code-to-cloud@2x.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Code to Cloud</h3>
+                                    <p>Build your apps from the ground up with tools and technologies designed for developers.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-11 col-md-3">
+                        <a class="cardLink" href="https://developer.microsoft.com/games/" data-bi-cN="Game development" data-bi-aN="Other ways to get your project started">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img style="height:42px" data-src="../_devcom/images/icon-game-dev@2x.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Game development</h3>
+                                    <p>Create bold, immersive game experiences that attract and engage players.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-11 col-md-3">
+                        <a class="cardLink" href="https://developer.microsoft.com/graph" data-bi-cN="AI" data-bi-aN="Other ways to get your project started">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <img style="width:42px" data-src="../_devcom/images/icon-microsoft-graph@2x.png" class="lazyload d-block me-auto" role="presentation" alt="">
+                                    <h3 class="pane-header pt-3">Microsoft Graph</h3>
+                                    <p>Use the data and intelligence in Microsoft 365 to build apps that reach millions of users.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="learn-tools-resources" class="container-fluid pt-5">
+            <div class="container">
+                <div class="row g-3">
+                    <div class="col-12 col-md-6">
+                        <div id="learn-card" class="lazyload card learn-card border-radius-8 h-100">
+                            <div class="card-body border-radius-8 pb-5">
+                                <h2 class="page-title">
+                                    Learn
+                                </h2>
+                                <p>Find training and certifications and discover resources that will assist you on your learning journey. Whether you are just starting or you are an experienced professional, our hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.</p>
+                                <p class="my-0">
+                                    <a href="https://learn.microsoft.com/training/browse/" target="_blank" class="btn btn-link" data-bi-cN="Learning paths" data-bi-aN="Learn">Learning paths</a>
+                                </p>
+                                <p class="my-0">
+                                    <a href="https://learn.microsoft.com/training/dotnet/" target="_blank" class="btn btn-link" data-bi-cN="Learn .NET" data-bi-aN="Learn">Learn .NET</a>
+                                </p>
+                                <p class="my-0">
+                                    <a href="https://learn.microsoft.com/ai/" target="_blank" class="btn btn-link" data-bi-cN="Learn AI" data-bi-aN="Learn">Learn AI</a>
+                                </p>
+                                <p class="my-0">
+                                    <a href="https://learn.microsoft.com/training/azure/" target="_blank" class="btn btn-link" data-bi-cN="Learn Azure" data-bi-aN="Learn">Learn Azure</a>
+                                </p>
+                                <p class="my-0">
+                                    <a href="https://learn.microsoft.com/training/powerplatform/" target="_blank" class="btn btn-link" data-bi-cN="Learn Power Platform" data-bi-aN="Learn">Learn Power Platform</a>
+                                </p>
+                                <p class="my-0">
+                                    <a href="https://learn.microsoft.com/shows" target="_blank" class="btn btn-link" data-bi-cN="Learn shows" data-bi-aN="Learn">Learn shows</a>
+                                </p>
+                                <p class="my-0">
+                                    <a href="https://www.youtube.com/MicrosoftDeveloper/" target="_blank" class="btn btn-link" data-bi-cN="YouTube" data-bi-aN="Learn">Developer YouTube channel</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="row h-100">
+                            <div id="tools-card" class="col-12 pb-3">
+                                <div class="lazyload card tools-card border-radius-8 h-100">
+                                    <div class="card-body border-radius-8 pb-5">
+                                        <h2 class="page-title">Tools</h2>
+                                        <p>Use the right tools and platforms for building many types of applications.</p>
+                                        <p class="my-0">
+                                            <a href="https://dotnet.microsoft.com/" target="_blank" class="btn btn-link" data-bi-cN=".NET" data-bi-aN="Tools">.NET</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://github.com/" target="_blank" class="btn btn-link" data-bi-cN="GitHub" data-bi-aN="Tools">GitHub</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://visualstudio.microsoft.com/" target="_blank" class="btn btn-link" data-bi-cN="Visual Studio" data-bi-aN="Tools">Visual Studio</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://code.visualstudio.com/" target="_blank" class="btn btn-link" data-bi-cN="Visual Studio Code" data-bi-aN="Tools">Visual Studio Code</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div id="resources-card" class="card border-radius-8 h-100">
+                                    <div class="lazyload card-body resources-card border-radius-8 pb-5">
+                                        <h2 class="page-title">Resources</h2>
+                                        <p>Explore documentation, tutorials, sample code, developer guides, and get answers to your technical questions.</p>
+                                        <p class="my-0">
+                                            <a href="https://learn.microsoft.com/samples/browse/" target="_blank" class="btn btn-link" data-bi-cN="Code Samples" data-bi-aN="Resources">Code samples</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://learn.microsoft.com/docs/" target="_blank" class="btn btn-link" data-bi-cN="Documentation" data-bi-aN="Resources">Documentation</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://learn.microsoft.com/answers/" target="_blank" class="btn btn-link" data-bi-cN="Microsoft Q&A" data-bi-aN="Resources">Microsoft Q&A</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html" target="_blank" class="btn btn-link" data-bi-cN="Microsoft.Source Newsletter" data-bi-aN="Resources">Microsoft.Source Newsletter</a>
+                                        </p>
+                                        <p class="my-0">
+                                            <a href="https://techcommunity.microsoft.com/" target="_blank" class="btn btn-link" data-bi-cN="Tech Community Hub" data-bi-aN="Resources">Tech Community hub</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="share-and-connect" class="container-fluid py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mb-0 pb-5">Share, connect, and get inspired</h2>
+                    </div>
+                </div>
+                <div class="row g-3 h-100">
+                    <div class="col-12 col-md-4">
+                        <div class="card border-radius-8 h-100">
+                            <picture>
+                                <source type="image/webp" srcset="../_devcom/images/card-github-copilot@2x.webp">
+                                <source type="image/png" srcset="../_devcom/images/card-github-copilot@2x.png">
+                                <img class="card-img-top" style="border-radius: 12px 12px 0 0; " src="../_devcom/images/card-github-copilot@2x.png" alt="">
+                            </picture>
+                            <div class="card-body border-radius-8 pb-0">
+                                <h3 class="page-title">
+                                    Copilot Adventures
+                                </h3>
+                                <p>Copilot Adventures is all about learning new concepts and languages by using GitHub Copilot to help you write code.</p>
+                            </div>
+                            <div class="card-footer pt-0">
+                                <a href="https://microsoft.github.io/CopilotAdventures/" target="_blank" class="btn btn-link" data-bi-cN="Github Copilot" data-bi-aN="Share, connect, and get inspired">Start your adventure</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="row h-100">
+                            <div class="col-12 pb-3">
+                                <div class="card border-radius-8 h-100 home-three-column-card-height">
+                                    <div class="card-body border-radius-8 pb-0">
+                                        <h3 class="pane-header">Blogs</h3>
+                                        <p>Learn about the latest developer news from around Microsoft.</p>
+                                    </div>
+                                    <div class="card-footer pt-0">
+                                        <a class="btn btn-link" data-bi-cN="Blogs" data-bi-aN="Share, connect, and get inspired" href="/en-us/blogs">Discover blogs</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="card border-radius-8 h-100 home-three-column-card-height">
+                                    <div class="card-body border-radius-8 pb-0">
+                                        <h3 class="pane-header">Connect with community</h3>
+                                        <p>Discover and connect with others who build with Microsoft tools and services.</p>
+                                    </div>
+                                    <div class="card-footer pt-0">
+                                        <a class="btn btn-link" data-bi-cN="Connect with community" data-bi-aN="Share, connect, and get inspired" href="/en-us/community">Explore a community</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="row h-100">
+                            <div class="col-12 pb-3">
+                                <div class="card border-radius-8 h-100 home-three-column-card-height">
+                                    <div class="card-body border-radius-8 pb-0">
+                                        <h3 class="pane-header">Events</h3>
+                                        <p>Join upcoming events and watch past events delivered by the technical community and Microsoft experts.</p>
+                                    </div>
+                                    <div class="card-footer pt-0">
+                                        <a class="btn btn-link" data-bi-cN="Events" data-bi-aN="Share, connect, and get inspired" href="/en-us/events">Discover events</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="card border-radius-8 h-100 home-three-column-card-height">
+                                    <div class="card-body border-radius-8 pb-0">
+                                        <h3 class="pane-header">Microsoft Reactor</h3>
+                                        <p>Microsoft Reactor connects you with the developers and startups that share your goals.</p>
+                                    </div>
+                                    <div class="card-footer pt-0">
+                                        <a href="https://developer.microsoft.com/reactor/" class="btn btn-link" data-bi-cN="Reactor" data-bi-aN="Share, connect, and get inspired">Explore Reactor events</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+        <section b-snxqalre11 id="socials" class="container-fluid py-5">
+            <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+    <symbol id="brand-twitter-x" viewBox="0 0 1200 1227"> <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path> </symbol>
+</svg>
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <p class="d-xl-inline-block d-sm-block me-3 mb-3 mb-xl-0">Follow us on the web</p>
+            <div class="d-xl-inline-block d-sm-block">
+                <div class="d-inline-block me-3">
+                    <a href="https://github.com/microsoft/?wt.mc_id=developermscom" class="social" target="_blank" aria-label='Follow us on GitHub' data-bi-cN="GitHub" data-bi-aN="Social">
+                        <svg href="#" target="_blank" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="CurrentColor" class="bi bi-github" viewBox="0 0 16 16">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
+                        </svg>
+                    </a>
+                </div>
+                <div class="d-inline-block me-3">
+                    <a href="https://twitter.com/msdev/?wt.mc_id=developermscom" class="social" target="_blank" aria-label='Follow us on X' data-bi-cN="X" data-bi-aN="Social">
+                        <svg width="24" height="24" fill="CurrentColor" version="2.0" class="bi bi-twitter mx-1">
+                            <use href="#brand-twitter-x"></use>
+                        </svg>
+                    </a>
+                </div>
+                <div class="d-inline-block me-3">
+                    <a href="https://www.linkedin.com/showcase/microsoft-developers/?wt.mc_id=developermscom" class="social" target="_blank" aria-label='Follow us on LinkedIn' data-bi-cN="LinkedIn" data-bi-aN="Social">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="CurrentColor" class="bi bi-linkedin mx-1" viewBox="0 0 16 16">
+                            <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+                        </svg>
+                    </a>
+                </div>
+                <div class="d-inline-block me-3">
+                    <a href="https://www.instagram.com/microsoftdeveloper/?wt.mc_id=developermscom" class="social" target="_blank" aria-label='Follow us on Instagram' data-bi-cN="Instagram" data-bi-aN="Social">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="CurrentColor" class="bi bi-instagram mx-1" viewBox="0 0 16 16">
+                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+                        </svg>
+                    </a>
+                </div>
+                <div class="d-inline-block">
+                    <a href="https://www.youtube.com/Microsoftdeveloper/?wt.mc_id=developermscom" class="social" target="_blank" aria-label='Follow us on YouTube' data-bi-cN="YouTube" data-bi-aN="Social">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="CurrentColor" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_1090_8939)">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V20C0 22.2091 1.79086 24 4 24H20C22.2091 24 24 22.2091 24 20V4C24 1.79086 22.2091 0 20 0H4ZM16.7929 10.7596L8.56807 5.08237C7.90472 4.62449 7 5.09932 7 5.90535V17.121C7 17.9218 7.89431 18.3978 8.55855 17.9505L16.7834 12.412C17.3679 12.0184 17.3728 11.1599 16.7929 10.7596Z" fill="CurrentColor" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_1090_8939">
+                                    <rect width="24" height="24" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </section>
+    </div>
+
+    <!-- Theme picker / UHF Footer -->
+    <div b-snxqalre11 class="container-fluid mx-0 px-0 overflow-hidden" style="background:#f2f2f2">
+        <div b-snxqalre11 class="row">
+            <div b-snxqalre11 class="col-12 col-lg-auto c-uhff-base-pre">
+                <button type="button" class="btn-theme" id="theme-toggle">
+    <svg xmlns="http://www.w3.org/2000/svg" style="margin-right:10px" width="24" height="24" fill="currentColor" class="bi bi-brightness-high" viewBox="0 0 16 16">
+        <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z" />
+    </svg>Theme
+</button>
+            </div>
+            <div b-snxqalre11 class="col-12 col-lg-10">
+                <!-- UHF Footer -->
+                    <div id="footerArea" class="uhf"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
+                <div id="footerRegion"      data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
+
+    <div  id="footerUniversalFooter" data-m='{"cN":"footerUniversalFooter","cT":"Module_coreui-universalfooter","id":"m1r1a2","sN":1,"aN":"r1a2"}'  data-module-id="Category|footerRegion|coreui-region|footerUniversalFooter|coreui-universalfooter">
+        
+
+
+
+<footer id="uhf-footer" class="c-uhff context-uhf"  data-uhf-mscc-rq="false" data-footer-footprint="/MSDev-Community/MSDev-DEVCOM-Community-Footer, fromService: True" data-m='{"cN":"Uhf footer_cont","cT":"Container","id":"c1m1r1a2","sN":1,"aN":"m1r1a2"}'>
+    <div class="c-uhff-base">
+                <a id="locale-picker-link" aria-label="Content Language Selector. Currently set to English (United States)" class="c-uhff-link c-uhff-lang-selector c-glyph glyph-world" href="https://developer.microsoft.com/en-us/_devcom/locale" data-m='{"cN":"locale_picker(US)_nav","id":"n1c1m1r1a2","sN":1,"aN":"c1m1r1a2"}'>English (United States)</a>
+
+            <a data-m='{"id":"n2c1m1r1a2","sN":2,"aN":"c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
+        <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
+            <title>Your Privacy Choices Opt-Out Icon</title>
+            <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/>
+            <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"/>
+            <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"/>
+            <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"/>
+        </svg>
+        <span>Your Privacy Choices</span>
+    </a>
+
+        <noscript>
+                <a data-m='{"id":"n3c1m1r1a2","sN":3,"aN":"c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
+        <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
+            <title>Your Privacy Choices Opt-Out Icon</title>
+            <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/>
+            <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"/>
+            <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"/>
+            <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"/>
+        </svg>
+        <span>Your Privacy Choices</span>
+    </a>
+
+        </noscript>
+            <a data-m='{"id":"n4c1m1r1a2","sN":4,"aN":"c1m1r1a2"}' href="https://go.microsoft.com/fwlink/?linkid=2259814" class="c-uhff-link c-uhff-consumer">
+        <span>Consumer Health Privacy</span>
+    </a>
+
+        <nav aria-label="Microsoft corporate links">
+            <ul class="c-list f-bare" data-m='{"cN":"Corp links_cont","cT":"Container","id":"c5c1m1r1a2","sN":5,"aN":"c1m1r1a2"}'>
+                                <li  id="c-uhff-contact microsoft ">
+                    <a class="c-uhff-link" href="https://support.microsoft.com/contactus/" data-mscc-ic="false" data-m='{"cN":"Contact Microsoft_nav","id":"n1c5c1m1r1a2","sN":1,"aN":"c5c1m1r1a2"}'>Contact Microsoft </a>
+                </li>
+                <li  id="c-uhff-privacy &amp; cookies">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-mscc-ic="false" data-m='{"cN":"Privacy \u0026 Cookies_nav","id":"n2c5c1m1r1a2","sN":2,"aN":"c5c1m1r1a2"}'>Privacy &amp; Cookies</a>
+                </li>
+                <li  id="c-uhff-terms of use">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=206977" data-mscc-ic="false" data-m='{"cN":"Terms of Use_nav","id":"n3c5c1m1r1a2","sN":3,"aN":"c5c1m1r1a2"}'>Terms of Use</a>
+                </li>
+                <li  id="c-uhff-trademarks">
+                    <a class="c-uhff-link" href="https://www.microsoft.com/trademarks" data-mscc-ic="false" data-m='{"cN":"Trademarks_nav","id":"n4c5c1m1r1a2","sN":4,"aN":"c5c1m1r1a2"}'>Trademarks</a>
+                </li>
+
+                <li>&#169; Microsoft 2024</li>
+                
+            </ul>
+        </nav>
+    </div>
+    
+</footer>
+
+<script id="uhf-footer-ccpa">
+    const globalPrivacyControlEnabled = navigator.globalPrivacyControl;
+
+    const GPC_DataSharingOptIn = (globalPrivacyControlEnabled) ? false : checkThirdPartyAdsOptOutCookie();
+
+    function checkThirdPartyAdsOptOutCookie() {
+        try {
+            const ThirdPartyAdsOptOutCookieName = '3PAdsOptOut';
+            var cookieValue = getCookie(ThirdPartyAdsOptOutCookieName);
+            return cookieValue != 1;
+        } catch {
+            return true;
+        }
+    }
+
+    function getCookie(cookieName) {
+        var cookieValue = document.cookie.match('(^|;)\\s*' + cookieName + '\\s*=\\s*([^;]+)');
+        return (cookieValue) ? cookieValue[2] : '';
+    }
+</script>
+
+
+
+
+
+
+    </div>
+        </div>
+
+    </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- /Theme picker -->
+
+    <!-- Scripts -->
+    <script src="/_devcom/static/js/scripts.js?v=Xo9QDbqzxGQUL3AY4cOITpNDCiI"></script>
+    <script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script><script src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/shell/_scrf/js/themes=default/d6-d6e6df/89-746ba4/df-3feeb0/f5-14aef8/bd-f5f332/27-13b2c3/e9-07937b/33-b505e5/fa-7a47db/6e-e2d05f/74-0b2d48/88-5b9b75/1b-240b37/4e-8e1a50/c2-370434/6f-bf5d0f/ea-315ddf/2e-e273bf/17-02d9ee/cf-2a93c7/c0-2ffa80/77-785548/48-4f52bb/3c-6c8ad0/3a-0d7cd3/5f-7d882b/c1-621df2/38-e8e647/17-c82a09/85-bd536d/44-776362/f8-86938e/61-951d1b/39-3d9dc2/81-96da47/ec-e44e19/6c-7627b9?ver=2.0&_cf=20210618&iife=1"></script><script src="https://mem.gfx.ms/meversion?partner=MSDev-Community&market=en-us&uhf=1" defer></script> <!-- UHF scripts -->
+    
+    <script>
+        jQuery(function ($) {
+            // Remove me control sign in button.
+            $('#meControl').remove();
+
+            // Reset domain for Locale Page link in UHF.
+            let uhfLocaleUrl = $('#locale-picker-link').attr("href").split('/');
+            if (uhfLocaleUrl.length >= 2) {
+                let currentUrl = $(location).attr('href').split('/');
+                uhfLocaleUrl[2] = currentUrl[2];
+                $('#locale-picker-link').attr("href", uhfLocaleUrl.join('/'));
+            }
+        });
+    </script>
+    <!-- /Scripts -->
+</body>
+</html>
