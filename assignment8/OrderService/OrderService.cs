@@ -18,12 +18,15 @@ namespace OrderApp {
 
         public OrderService() {
             using (var ctx = new OrderContext()) {
-                if (ctx.Goods.Count() == 0) {
+                if (ctx.Goods.Count() == 0)
+                {
                     ctx.Goods.Add(new Goods("apple", 100.0));
                     ctx.Goods.Add(new Goods("egg", 200.0));
                     ctx.SaveChanges();
                 }
-                if (ctx.Customers.Count() == 0) {
+
+                if (ctx.Customers.Count() == 0)
+                {
                     ctx.Customers.Add(new Customer("li"));
                     ctx.Customers.Add(new Customer("zhang"));
                     ctx.SaveChanges();

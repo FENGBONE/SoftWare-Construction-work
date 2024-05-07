@@ -1,69 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\",
+  "WorkspaceRootPath": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|d:\\github\\repoistory\\software-construction work\\assignment9\\order\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\study\\\u5927\u4E8C\u4E0B\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Assignment8\\Assignment8\\OrderService\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderservice\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\orderform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,90 +99,223 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "F:\\study\\\u5927\u4E8C\u4E0B\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Assignment8\\Assignment8\\OrderService\\OrderService.cs",
-              "ToolTip": "F:\\study\\\u5927\u4E8C\u4E0B\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Assignment8\\Assignment8\\OrderService\\OrderService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T05:28:32.012Z",
-              "EditorCaption": ""
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\App.config",
+              "RelativeDocumentMoniker": "OrderService\\App.config",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\App.config",
+              "RelativeToolTip": "OrderService\\App.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-17T07:29:55.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Goods.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\Goods.cs",
-              "RelativeDocumentMoniker": "OrderService\\Goods.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\Goods.cs",
-              "RelativeToolTip": "OrderService\\Goods.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "DocumentIndex": 2,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\OrderContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\OrderContext.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\OrderContext.cs",
+              "RelativeToolTip": "OrderService\\OrderContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:55.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\Customer.cs",
-              "RelativeDocumentMoniker": "OrderService\\Customer.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\Customer.cs",
-              "RelativeToolTip": "OrderService\\Customer.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:55.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormDetailEdit.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormDetailEdit.cs",
-              "RelativeDocumentMoniker": "OrderForm\\FormDetailEdit.cs",
-              "ToolTip": "F:\\study\\\u5927\u4E8C\u4E0B\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\Assignment8\\Assignment8\\OrderForm\\FormDetailEdit.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:55.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormEdit.cs [Design]",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormEdit.cs",
-              "RelativeDocumentMoniker": "OrderForm\\FormEdit.cs",
-              "ToolTip": "Z:\\SynologyDrive\\\u6559\u5B66\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\2024\u5E74\u6625\u5B63\\assignments\\Assignment8\\OrderForm\\FormEdit.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-17T07:29:55.102Z"
+              "WhenOpened": "2024-04-17T07:29:55.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\OrderService.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\OrderService.cs",
               "RelativeDocumentMoniker": "OrderService\\OrderService.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\OrderService.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\OrderService.cs",
               "RelativeToolTip": "OrderService\\OrderService.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAywDMAAAAFAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAowCsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T07:29:55.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderContext.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\OrderContext.cs",
-              "RelativeDocumentMoniker": "OrderService\\OrderContext.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\OrderContext.cs",
-              "RelativeToolTip": "OrderService\\OrderContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Order.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\Order.cs",
+              "RelativeToolTip": "OrderService\\Order.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywB0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:55.107Z"
+              "WhenOpened": "2024-04-17T07:29:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OrderService\\OrderDetail.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\OrderDetail.cs",
+              "RelativeToolTip": "OrderService\\OrderDetail.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\packages.config",
+              "RelativeDocumentMoniker": "OrderService\\packages.config",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\packages.config",
+              "RelativeToolTip": "OrderService\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T06:11:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\MainClass.cs",
+              "RelativeDocumentMoniker": "OrderService\\MainClass.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\MainClass.cs",
+              "RelativeToolTip": "OrderService\\MainClass.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:06:45.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\Goods.cs",
+              "RelativeDocumentMoniker": "OrderService\\Goods.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\Goods.cs",
+              "RelativeToolTip": "OrderService\\Goods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.099Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderService\\Customer.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderService\\Customer.cs",
+              "RelativeToolTip": "OrderService\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormParent.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormParent.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormParent.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormParent.cs",
+              "RelativeToolTip": "OrderForm\\FormParent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:12:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormParent.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormParent.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormParent.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormParent.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormParent.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:12:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormMain.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormMain.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormDetailEdit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormDetailEdit.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormDetailEdit.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormDetailEdit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormDetailEdit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormMain.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormMain.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormMain.cs",
+              "RelativeToolTip": "OrderForm\\FormMain.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwEQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\Program.cs",
+              "RelativeDocumentMoniker": "OrderForm\\Program.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\Program.cs",
+              "RelativeToolTip": "OrderForm\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:11:49.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDetailEdit.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormDetailEdit.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormDetailEdit.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormDetailEdit.cs",
+              "RelativeToolTip": "OrderForm\\FormDetailEdit.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormEdit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormEdit.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormEdit.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormEdit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormEdit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormEdit.cs",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormEdit.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormEdit.cs",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\FormEdit.cs",
+              "RelativeToolTip": "OrderForm\\FormEdit.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:29:55.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\App.config",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\App.config",
               "RelativeDocumentMoniker": "OrderForm\\App.config",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\App.config",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\App.config",
               "RelativeToolTip": "OrderForm\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -173,97 +323,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "OrderService\\OrderDetail.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\OrderDetail.cs",
-              "RelativeToolTip": "OrderService\\OrderDetail.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAIBAwDIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:54.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormEdit.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormEdit.cs",
-              "RelativeDocumentMoniker": "OrderForm\\FormEdit.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormEdit.cs",
-              "RelativeToolTip": "OrderForm\\FormEdit.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACcAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-17T07:29:55.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\Order.cs",
-              "RelativeDocumentMoniker": "OrderService\\Order.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\Order.cs",
-              "RelativeToolTip": "OrderService\\Order.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAABQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:55.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormMain.cs",
-              "RelativeDocumentMoniker": "OrderForm\\FormMain.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormMain.cs",
-              "RelativeToolTip": "OrderForm\\FormMain.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-17T07:29:55.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\packages.config",
+              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\packages.config",
               "RelativeDocumentMoniker": "OrderForm\\packages.config",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\packages.config",
+              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment9\\Order\\OrderForm\\packages.config",
               "RelativeToolTip": "OrderForm\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-04-17T07:29:55.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormMain.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormMain.cs",
-              "RelativeDocumentMoniker": "OrderForm\\FormMain.cs",
-              "ToolTip": "Z:\\SynologyDrive\\\u6559\u5B66\\\u8F6F\u4EF6\u6784\u9020\u57FA\u7840\\2023\u5E74\u6625\u5B63\\homeworks\\Assignment8\\OrderForm\\FormMain.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-17T07:29:55.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\App.config",
-              "RelativeDocumentMoniker": "OrderService\\App.config",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderService\\App.config",
-              "RelativeToolTip": "OrderService\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-17T07:29:55.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FormDetailEdit.cs",
-              "DocumentMoniker": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormDetailEdit.cs",
-              "RelativeDocumentMoniker": "OrderForm\\FormDetailEdit.cs",
-              "ToolTip": "D:\\GitHub\\repoistory\\SoftWare-Construction work\\assignment8\\OrderForm\\FormDetailEdit.cs",
-              "RelativeToolTip": "OrderForm\\FormDetailEdit.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:29:55.108Z"
             }
           ]
         }

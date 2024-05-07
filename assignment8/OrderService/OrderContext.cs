@@ -1,4 +1,5 @@
 ﻿using MySql.Data.EntityFramework;
+using MySql.Data.MySqlClient;
 using System.Data.Entity;
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Policy;

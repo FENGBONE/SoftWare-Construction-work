@@ -238,3 +238,44 @@ F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderService\obj\D
 F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderService\obj\Debug\OrderSer.4493321F.Up2Date
 F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderService\obj\Debug\OrderApp.exe
 F:\study\大二下\软件构造基础\Assignment8\Assignment8\OrderService\obj\Debug\OrderApp.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\OrderApp.exe.config
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\OrderApp.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\OrderApp.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\EntityFramework.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\Google.Protobuf.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\MySql.Data.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\MySql.Data.EntityFramework.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\Renci.SshNet.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Buffers.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.IO.Pipelines.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Memory.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\BouncyCastle.Crypto.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\EntityFramework.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\Google.Protobuf.pdb
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\Google.Protobuf.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\K4os.Compression.LZ4.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\K4os.Hash.xxHash.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\MySql.Data.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\MySql.Data.EntityFramework.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\Renci.SshNet.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Buffers.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.IO.Pipelines.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Memory.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\obj\Debug\OrderSer.4493321F.Up2Date
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\obj\Debug\OrderApp.exe
+D:\GitHub\repoistory\SoftWare-Construction work\assignment9\Order\OrderService\obj\Debug\OrderApp.pdb
